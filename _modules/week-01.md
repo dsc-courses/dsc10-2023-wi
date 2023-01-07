@@ -23,5 +23,5 @@
       - date: 2023-1-14
         events:
           
-          "**Lab 1**{: .label .label-lab } Expressions and Data Types":
+          "**Lab 0**{: .label .label-lab } Expressions and Data Types":
 ---
