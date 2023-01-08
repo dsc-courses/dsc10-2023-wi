@@ -93,6 +93,9 @@ callouts:
   warning:
     title: Warning
     color: red
+  important:
+    title: Important Announcement
+    color: red
   note:
     title: Note
     color: yellow

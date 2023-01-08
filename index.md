@@ -12,6 +12,9 @@ nav_order: 1
 
 {{ site.staffersnobio }}
 
+{: .important } 
+The first course meeting will be remote ([Zoom link here](https://ucsd.zoom.us/j/97623586285)) because Janine has Covid. Several subsequent lectures may also be remote for the same reason. Check this page for updates about when we'll be able to start in-person instruction. Thanks for your understanding!
+
 {: .warning } 
 This site is under construction. Until this warning is removed, any content here is subject to change.
 

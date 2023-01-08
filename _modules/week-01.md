@@ -4,7 +4,7 @@
     days:
       - date: 2023-1-9
         events:
-          "**LEC 1**{: .label .label-lecture } Introduction":
+          "**LEC 1**{: .label .label-lecture } Introduction - **REMOTE** Lecture ([Zoom link](https://ucsd.zoom.us/j/97623586285))":
             "[CIT 1.2-1.3](https://inferentialthinking.com/chapters/01/2/why-data-science.html)"
                 
           "**SUR**{: .label .label-survey } [Beginning of Quarter Survey](https://forms.gle/BFrjfmrRE1CqdjKa8)":

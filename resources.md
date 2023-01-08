@@ -48,7 +48,7 @@ These are some additional resources to complement Lecture 12, our probability le
 
 This article and visualization intuitively decribes permutation testing, which we cover in Lecture 17. It's very helpful for thinking about permutation testing.
 
-- [Permutation testing visualization (Lecture 17)](https://www.jwilber.me/permutationtest/)
+- [Permutation testing visualization (Lecture 16)](https://www.jwilber.me/permutationtest/)
 
 ### Instructional Videos
 
@@ -61,12 +61,12 @@ These are some videos we made to address common questions of DSC 10 students. De
 
 These are some videos we made to supplement a previous iteration of the course. They cover information that we'll also cover this quarter.
 
-- [Lottery Problem Walkthrough (Lecture 4)](https://www.youtube.com/watch?v=w_witptT6Ts)
-- [Introduction to DataFrames (Lecture 5)](https://youtu.be/t_bjtBJ0gGc)
-- [Grouping (Lecture 6)](https://youtu.be/xg7rnjWnZ48)
-- [Bar Charts and `.str.contains` (Lecture 7)](https://youtu.be/OVTroiHby3g)
+- [Lottery Problem Walkthrough (Lecture 3)](https://www.youtube.com/watch?v=w_witptT6Ts)
+- [Introduction to DataFrames (Lecture 4)](https://youtu.be/t_bjtBJ0gGc)
+- [Grouping (Lecture 5)](https://youtu.be/xg7rnjWnZ48)
+- [Bar Charts and `.str.contains` (Lecture 6)](https://youtu.be/OVTroiHby3g)
     - [`.str.contains` only](https://www.youtube.com/watch?v=TCcEhVA6Euw&list=PLDNbnocpJUhbczUw2Rw6bqreEECMvZ8gN&index=1)
-- [Line Plots and Sorting (Lecture 7)](https://www.youtube.com/watch?v=glzZ04D1kDg)
+- [Line Plots and Sorting (Lecture 6)](https://www.youtube.com/watch?v=glzZ04D1kDg)
 
 ## Practice Exams
 
