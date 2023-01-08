@@ -11,7 +11,7 @@
       - date: 2023-3-7
         events:
           
-          "**Lab 6**{: .label .label-hw } Center, Spread, and the Normal Distribution":
+          "**Lab 6**{: .label .label-lab } Center, Spread, and the Normal Distribution":
       - date: 2023-3-8
         events:
           "**LEC 23**{: .label .label-lecture } Correlation":
