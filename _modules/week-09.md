@@ -17,7 +17,7 @@
           "**LEC 23**{: .label .label-lecture } Correlation":
             "[CIT 15, 15.1-15.2](https://inferentialthinking.com/chapters/15/Prediction.html)"
           
-          "**DIS 9**{: .label .label-disc } The Normal Distribution and the CLT:
+          "**DIS 9**{: .label .label-disc } The Normal Distribution and the CLT":
                 
       - date: 2023-3-9
         events:
