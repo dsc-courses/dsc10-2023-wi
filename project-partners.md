@@ -1,12 +1,12 @@
 ---
 layout: page
-title: 👯 Pair Programming Guidelines
+title: 👯 Project Partner Guidelines
 description: >-
-    Information about the practice of pair programming.
+    Information about working with a partner on course projects.
 nav_exclude: true
 ---
 
-# 👯 Partner Guidelines
+# 👯 Project Partner Guidelines
 {:.no_toc}
 
 ## Table of contents
@@ -17,11 +17,9 @@ nav_exclude: true
 
 ## Overview
 
-<!-- Below, we provide suggestions for how to work with a partner, but ultimately it is up to you to decide how to get your work done. -->
+In this class, you are permitted to and encouraged to work with a partner for the Midterm Project and Final Project. Below, we provide suggestions for how to work with a partner, but ultimately it is up to you to work productively with your partner.
 
-**🚨 For the Final Project, we have updated the policies for working with a partner.**
-
-If you work with a partner, you are not required to follow the pair programming model. However, you **are** both required to actively contribute to all parts of the project.
+If you work with a partner, you are both required to **actively contribute to all parts of the project**.
 - One way to do this is through the pair programming model, described below.
 - Another way to do this is to work on the same problems at the same time on your separate computers.
 
@@ -32,13 +30,13 @@ You and your partner will receive the same score on any submissions you make tog
 ## Pair Programming
 Pair programming is a practice in which two programmers share one computer. One programmer is the “driver,” who controls the keyboard and mouse. The other is the “navigator,” who observes, asks questions, suggests solutions, and thinks about slightly longer-term strategies. The two programmers switch roles about every 20 minutes.
 
-What makes pair programming effective is that both programmers are working together on the same problem at the same time. The resulting work of pair programming nearly always outshines that of the solitary programmer, with pairs producing better code in less time.
+What makes pair programming effective is that both programmers are working together on the same problem at the same time. Research shows that the resulting work of pair programming nearly always outshines that of the solitary programmer, with pairs producing better code in less time.
 
 To learn more about the practice of pair programming and to see pairs in action, check out this entertaining video from North Carolina State University: [An Introduction to Pair Programming Version 2](https://www.youtube.com/watch?v=rG_U12uqRhE).
 
 ## Choosing a Partner
 
-You can choose your own partner. You will need to arrange times to meet outside of class. We expect everyone to be flexible and professional in arranging those times as necessary; if your schedule is highly constrained, explore possible meeting times with your prospective partner before you commit to the partnership.
+You can choose your own partner. You will need to arrange times to meet outside of class. We expect everyone to be flexible and professional in arranging those times as necessary; if your schedule is highly constrained, explore possible meeting times with your prospective partner *before* you commit to the partnership.
 
 You should try to pick a partner whose experience and skill level with programming is similar to your own. This may not always be possible and it is sometimes hard to compare skill levels, but students tell us (and other data supports) that pairs are most productive when the partners start at about the same level. 
 
@@ -48,7 +46,7 @@ Students bring different strengths to the process, regardless of how much experi
 
 >>> “My partner had never coded anything before so I was able to teach him a little bit about how it worked. The teaching bit helped me a lot withunderstanding the labs and passing the exams.”  – student
 
-The less experienced partner may feel that questions hold the other partner back or that there is no benefit to participating actively, but pair programming studies show that paired work is consistently better than work the stronger partner does alone.  It is each partner’s job to understand the whole task; that means asking questions when necessary and answering them when possible.
+The less experienced partner may feel that their questions hold the other partner back or that there is no benefit to participating actively, but pair programming studies show that paired work is consistently better than work the stronger partner does alone.  It is each partner’s job to understand the whole task; that means asking questions when necessary and answering them when possible.
 
 ## Dealing with Differences
 
