@@ -29,9 +29,9 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   EdStem:
-    - '#'
+    - 'https://edstem.org/us/courses/33310/discussion/'
   Gradescope:
-    - '#'
+    - 'https://www.gradescope.com/courses/484381'
   Reference:
     - 'https://drive.google.com/file/d/1mQApk9Ovdi-QVqMgnNcq5dZcWucUKoG-/view'
   Practice:
