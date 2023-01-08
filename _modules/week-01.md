@@ -13,7 +13,7 @@
           "**LEC 2**{: .label .label-lecture } Expressions and Data Types":
             "[BPD 1-6](https://notes.dsc10.com/01-getting_started/tools.html)"
             
-          "**DIS 1**{: .label .label-disc } Expressions and Data Types":
+          "**DIS 1**{: .label .label-disc } Getting Started with Jupyter Notebooks":
                 
       - date: 2023-1-13
         events:

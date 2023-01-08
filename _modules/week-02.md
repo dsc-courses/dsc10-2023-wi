@@ -12,7 +12,7 @@
           "**LEC 5**{: .label .label-lecture } More Queries and GroupBy ([extra video](https://youtu.be/xg7rnjWnZ48?t=598))":
             "[BPD 10-11](https://notes.dsc10.com/02-data_sets/querying.html)"
 
-          "**DIS 2**{: .label .label-disc } More Queries and GroupBy":
+          "**DIS 2**{: .label .label-disc } Python Basics, Arrays, and DataFrames":
                 
       - date: 2023-1-21
         events:
