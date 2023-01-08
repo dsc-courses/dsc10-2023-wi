@@ -10,7 +10,7 @@
       - date: 2023-2-7
         events:
           
-          "**HW 3**{: .label .label-hw } DataFrames, Control Flow, and Probability, temp":
+          "**HW 3**{: .label .label-hw } DataFrames, Control Flow, and Probability":
           "**SUR**{: .label .label-survey } Mid-Quarter Feedback Form":
       - date: 2023-2-8
         events:
