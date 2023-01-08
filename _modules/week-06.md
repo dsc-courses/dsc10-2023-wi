@@ -12,6 +12,7 @@
         events:
           
           "**PROJ**{: .label .label-proj } Midterm Project":
+      
       - date: 2023-2-15
         events:
           "**LEC 15**{: .label .label-lecture } Hypothesis Testing":
