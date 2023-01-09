@@ -373,11 +373,16 @@ regardless of the number of points it is graded out of.
 
 If you'd like to request a regrade on any assignment, you must do so within one
 week of the assignment being graded. If you think there is a problem with the
-autograder,  please fill out the [Autograder Regrade Request Form](https://docs.google.com/forms/d/e/1FAIpQLSe9yDNvgRhHCnPAXanaB2ybopbTcrvY97lazspz2o26uopfww/viewform?usp=sf_link). If you think there is a problem with how your written question was graded, submit a regrade request through Gradescope.
+autograder,  please fill out the [Autograder Regrade Request Form](https://forms.gle/4JsHwG5ARdb3KaTC6). If you think there is a problem with how your written question was graded, submit a regrade request through Gradescope.
 
 ### Letter Grades and Incompletes
 
-We will use a standard scale for assigning letter grades. If you are taking the
+We will use a standard scale for assigning letter grades:
+
+| **Letter Grade** | A | A- | B+ | B | B- | C+ | C | C- | D | F |
+| **Percentage** | 93+ | 90+ | 87+ | 83+ | 80+ | 77+ | 73+ | 70+ | 60+ | below 60 |
+
+A+ grades are given at the instructor's discretion. If you are taking the
 course P/NP, you will receive a grade of P if you meet the criteria for a C-
 grade, otherwise you will receive a grade of NP.
 
