@@ -9,9 +9,6 @@ nav_order: 2
 # 📖 Syllabus
 {:.no_toc}
 
-Coming soon!
-
-<!-- ---
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -69,6 +66,13 @@ You can attend any lecture section, but if space fills up, priority will be give
 You must attend the discussion section in which you are officially enrolled. Students enrolled in Discussion D01 may attend any of the other three discussion sections, as Discussion D01 will not be staffed.
 
 Note that the schedule of courses also includes a designated Laboratory time for each section (on Wednesdays) – we will not be utilizing this time for anything this quarter, so you can ignore this Laboratory time and schedule other things during this time.
+
+|     | A00 (10am lecture)                                         | B00 (10am lecture) | D00 (10am lecture) |
+|-----|------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|
+| A-G | Discussion: Wednesday 1pm<br>Room: Center 212<br>TA: Dylan | Discussion: Wednesday 2pm<br>Room: Center 212<br>TA: Dylan | Discussion: Wednesday 1pm<br>Room: Center 212<br>TA: Dylan |
+| H-M | Discussion: Wednesday 1pm<br>Room: Center 212<br>TA: Dylan | Discussion: Wednesday 2pm<br>Room: Center 212<br>TA: Dylan | Discussion: Wednesday 2pm<br>Room: Center 212<br>TA: Dylan                  |
+| N-T | Discussion: Wednesday 1pm<br>Room: Center 113<br>TA: Dasha | Discussion: Wednesday 2pm<br>Room: Center 119<br>TA: Dasha | Discussion: Wednesday 1pm<br>Room: Center 113<br>TA: Dasha |
+| U-Z | Discussion: Wednesday 1pm<br>Room: Center 113<br>TA: Dasha | Discussion: Wednesday 2pm<br>Room: Center 119<br>TA: Dasha | Discussion: Wednesday 1pm<br>Room: Center 113<br>TA: Dasha |
 
 ### Office Hours
 
@@ -143,7 +147,7 @@ Note that we will not be using Canvas this quarter.
 
 ### Beginning of Quarter Survey
 
-Please fill out this short [survey](https://forms.gle/PcQ2dMZmunReUKyN9) at the beginning of the quarter. This is required of all students.
+Please fill out this short [survey](https://forms.gle/Wvdn296GoPHBC59d6) at the beginning of the quarter. This is required of all students.
 
 ---
 
@@ -341,7 +345,7 @@ Exams will be in-person individual exams during your scheduled lecture. You must
 
 We are aware that the DSC 10 exam conflicts with the final exam for MATH 20A. Fortunately, MATH 20A is providing an alternate exam for students with this conflict, so you should take the DSC 10 exam as scheduled and the MATH 20A exam at the alternate time provided by your math instructor. 
 
-Students taking another course with a conflicting final exam should let us know right away via the [Beginning of Quarter Survey](https://forms.gle/PcQ2dMZmunReUKyN9) to see if accomodations can be made. Without express permission otherwise, students are required to take the final exam at the scheduled time.
+Students taking another course with a conflicting final exam should let us know right away via the [Beginning of Quarter Survey](https://forms.gle/Wvdn296GoPHBC59d6) to see if accomodations can be made. Without express permission otherwise, students are required to take the final exam at the scheduled time.
 
 ---
 
@@ -518,6 +522,10 @@ respected and feels comfortable.
 
 ## 🙋 Waitlist FAQs
 
+**I am on the waitlist, but I really want to get into the course. Can you let me in?**
+
+Instructors are not able to enroll students in classes. However, at present, section D00 of this course has plenty of openings, so you can enroll in that section if it's important to you to get a spot. You can attend another lecture if the time does not work for you, but you will need to be present in section D00 for the midterm exam or notify us of your conflict on the [Beginning of Quarter Survey](https://forms.gle/Wvdn296GoPHBC59d6).
+
 **I am on the waitlist, so how can I keep up with the course?**
 
 Waitlisted to students may attend lecture and discussion, space-permitting, and can also watch podcast recordings. You can (and should) still submit assignments if you are on the waitlist. Waitlisted students should have access to DataHub to work on assignments. You may need to add yourself to some course tools; see the [Getting Started](../syllabus#getting-started) section of the syllabus.
@@ -542,5 +550,3 @@ status.
 
 
 
-
---- -->
