@@ -233,7 +233,7 @@ hidden correctness tests that determine your score.
 To submit a homework, follow the instructions in the assignment to upload your
 notebook to Gradescope. Homeworks will usually be due **Tuesdays at
 11:59pm**, but the last two homeworks will be due on Thursdays at 11:59pm. We will release homework assignments roughly a week before they're
-due. The lowest homework score is dropped from the grade calculation.
+due. Each homework is equally weighted at 5% of your overall grade, with no drops.
 
 Like labs, homeworks must be completed and submitted individually, but we
 encourage you to discuss high-level approaches with others. See the
@@ -359,11 +359,11 @@ how grades will be computed:
 
 | **Component** | **Weight** | **Notes** |
 | Lab Assignments | 15% | drop lowest score |
-| Homework Assignments | 25% | drop lowest score |
-| Midterm Project | 15% | |
+| Homework Assignments | 30% | 5% each |
+| Midterm Project | 10% | |
 | Midterm Exam | 10% | |
-| Final Project | 15% | |
-| Final Exam | 20% | |
+| Final Project | 17.5% | |
+| Final Exam | 17.5% | |
 | Attendance | 2% (extra credit) | |
 
 Note that each lab and each homework assignment will be worth the same amount,
@@ -432,39 +432,40 @@ integrity. Ignorance of the rules will not excuse you from any violations.
 In DSC 10, you can read books, surf the web, talk to your friends and the DSC
 10 staff to get help understanding the concepts you need to know to complete
 your assignments. However, all code must be written by you (or, in the instance
-of projects, together with your pair programming partner).
+of projects, together with your partner).
 
 The following activities are considered cheating and are not allowed in DSC 10
 (not an exhaustive list):
 
-- Using or submitting code acquired from other students (except in the instance
-  of projects, your pair programming partner), the web, or any other resource
-  not officially sanctioned by this course
+- Using or submitting code acquired from other indivduals (except in the instance
+  of projects, your partner), artificial intelligence tools such at ChatGPT or GitHub CoPilot, 
+  the internet, or any other resource
+  not officially sanctioned by this course.
 - Posting your code online, including on EdStem, unless privately to
-  instructors only
-- Having any other person complete any part of your assignment on your behalf
-- Completing an assignment on behalf of someone else
+  instructors only.
+- Having any other person or artificial intelligence tool complete any part of your assignment on your behalf.
+- Completing an assignment on behalf of someone else.
 - Providing code, exam questions, or solutions to any other student in the
-  course
-- Splitting up project questions with your pair programming partner and each
-  working on different questions
-- Collaborating with others on exams
+  course.
+- Splitting up project questions with your project partner and each
+  working on different questions.
+- Collaborating with others on exams.
 
 The following activities are examples of appropriate collaboration and are
 allowed in DSC 10 (not an exhaustive list):
 
-- Discussing the general approach to solving homework problems or projects
+- Discussing the general approach to solving homework problems or projects.
 - Talking about problem-solving strategies or issues you ran into and how you
-  solved them
+  solved them.
 - Discussing the answers to exams with other students who have already taken
-  the exam after the exam is complete
+  the exam after the exam is complete.
 - Using code provided in class or in any assigned readings or videos, with
-  attribution
-- Google searching for documentation on Python or babypandas
+  attribution.
+- Google searching for documentation on Python or babypandas.
 - Working together with other students on assignments without copying or
-  sharing answers
+  sharing answers.
 - Posting a question about your approach to a problem on EdStem, without
-  sharing your code
+  sharing your code.
 
 ### How can I be sure that my actions are NOT considered cheating?
 
