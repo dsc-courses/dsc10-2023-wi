@@ -44,35 +44,34 @@ The contents of this course come from UC Berkeley's Data 8 course, created by An
 
 ### Lecture and Discussion
 
-There are four lecture sections:
-- A00 with Janine: MWF 10-10:50am ([CSB 001](https://map.concept3d.com/?id=1005#!m/237176))
-- B00 with Janine: MWF 11-11:50am ([CSB 001](https://map.concept3d.com/?id=1005#!m/237176))
-- C00 with Suraj: MWF 1-1:50pm ([PCYNH 122](https://map.concept3d.com/?id=1005#!m/237176))
-- D00 with Puoya: MWF 12-12:50pm ([PCYNH 120](https://map.concept3d.com/?id=1005#!m/237176))
+There are three lecture sections:
+- A00: MWF 10-10:50am ([CSB 001](https://map.concept3d.com/?id=1005#!m/237176))
+- B00: MWF 11-11:50am ([CSB 001](https://map.concept3d.com/?id=1005#!m/237176))
+- D00: MWF 9-9:50am ([CSB 001](https://map.concept3d.com/?id=1005#!m/237176))
 
-There are three discussion sections:
-- A01 with Dasha: Monday 5-5:50pm ([CSB 001](https://map.concept3d.com/?id=1005#!m/237176))
-- B01 with Dasha: Monday 6-6:50pm ([CSB 001](https://map.concept3d.com/?id=1005#!m/237176))
-- C01 with Dasha: Monday 7-7:50pm ([CSB 001](https://map.concept3d.com/?id=1005#!m/237176))
-
-Lecture is meant to introduce to the main concepts of the course. In-person attendance is never required, but is strongly encouraged when possible, as you'll get the opporunity to ask questions, answer ungraded concept-check polls, and participate in discussion.
-
-Discussion section is focused on exam preparation. Students will work through problems from past DSC 10 exams and go over solutions with the TA. Attendance is optional, but students can earn up to 2 percent extra credit on their overall course grade by attending at least 8 discussion sections (0.25% earned for each discussion, up to a maximum of 2%).
-
-**All lecture and discussion sections will be podcasted.** Podcast recordings will be [available online](https://podcast.ucsd.edu/) within a few hours. 
+Lecture is meant to introduce to the main concepts of the course. Attendance is optional, but students who attend have an opportunity to earn extra credit. Attending lecture live gives you the opportunity to ask questions, answer ungraded concept-check polls, and participate in discussion.
 
 You can attend any lecture section, but if space fills up, priority will be given to students officially enrolled in that section. For the midterm exam, you must attend the lecture section in which you are officially enrolled.
 
-You must attend the discussion section in which you are officially enrolled. Students enrolled in Discussion D01 may attend any of the other three discussion sections, as Discussion D01 will not be staffed.
+Course TAs will hold four discussion sections each Wednesday, and you will be assigned to one of them based on the lecture section you are enrolled in and the first letter of your last name.
 
-Note that the schedule of courses also includes a designated Laboratory time for each section (on Wednesdays) – we will not be utilizing this time for anything this quarter, so you can ignore this Laboratory time and schedule other things during this time.
+Note that in the schedule of courses, this course is listed as having a discussion section (DI) and lab section (LA), but we will not necessarily be staffing course meetings at these times. Please ignore these times and instead, refer to the table below to find your assigned discussion section.
 
 |     | A00 (10am lecture)                                         | B00 (10am lecture) | D00 (10am lecture) |
 |-----|------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|
-| A-G | Discussion: Wednesday 1pm<br>Room: Center 212<br>TA: Dylan | Discussion: Wednesday 2pm<br>Room: Center 212<br>TA: Dylan | Discussion: Wednesday 1pm<br>Room: Center 212<br>TA: Dylan |
-| H-M | Discussion: Wednesday 1pm<br>Room: Center 212<br>TA: Dylan | Discussion: Wednesday 2pm<br>Room: Center 212<br>TA: Dylan | Discussion: Wednesday 2pm<br>Room: Center 212<br>TA: Dylan                  |
-| N-T | Discussion: Wednesday 1pm<br>Room: Center 113<br>TA: Dasha | Discussion: Wednesday 2pm<br>Room: Center 119<br>TA: Dasha | Discussion: Wednesday 1pm<br>Room: Center 113<br>TA: Dasha |
-| U-Z | Discussion: Wednesday 1pm<br>Room: Center 113<br>TA: Dasha | Discussion: Wednesday 2pm<br>Room: Center 119<br>TA: Dasha | Discussion: Wednesday 1pm<br>Room: Center 113<br>TA: Dasha |
+| **A-G** | Discussion: Wednesday 1pm<br>Room: Center 212<br>TA: Dylan | Discussion: Wednesday 2pm<br>Room: Center 212<br>TA: Dylan | Discussion: Wednesday 1pm<br>Room: Center 212<br>TA: Dylan |
+| **H-M** | Discussion: Wednesday 1pm<br>Room: Center 212<br>TA: Dylan | Discussion: Wednesday 2pm<br>Room: Center 212<br>TA: Dylan | Discussion: Wednesday 2pm<br>Room: Center 212<br>TA: Dylan                  |
+| **N-T** | Discussion: Wednesday 1pm<br>Room: Center 113<br>TA: Dasha | Discussion: Wednesday 2pm<br>Room: Center 119<br>TA: Dasha | Discussion: Wednesday 1pm<br>Room: Center 113<br>TA: Dasha |
+| **U-Z** | Discussion: Wednesday 1pm<br>Room: Center 113<br>TA: Dasha | Discussion: Wednesday 2pm<br>Room: Center 119<br>TA: Dasha | Discussion: Wednesday 1pm<br>Room: Center 113<br>TA: Dasha |
+
+Discussion section is primarily focused on exam preparation. Students will work through problems from past DSC 10 exams and go over solutions with the TA. Attendance is optional, but students who attend have an opportunity to earn extra credit. Attending discussion section and working through practice problems in dicussion gives you direct experience with the types of questions you will see on the midterm and final exam.
+
+You must attend the discussion section you are assigned to. If you have a conflict, you can request to switch to a different time on the [Beginning of Quarter Survey](https://forms.gle/Wvdn296GoPHBC59d6).
+
+To encourage regular attendance in lecture and discussion, we will offer extra credit for in-person attendance. Each lecture section will take attendance 8 times throughout the quarter, and each discussion section will take attendance 4 times throughout the quarter. You won't know in advance which days attendance will be taken, and it won't necessarily be on the same day in each lecture or discussion section. Each time that you are present and fill out the attendance form, you will earn 0.2% of extra credit on your overall course grade, up to a maximum of 2%. This means you can still earn the maximum possible extra credit even if you miss two course meetings at which attendance is taken. 
+
+**Lecture and discussion sections will be podcasted.** Podcast recordings will be [available online](https://podcast.ucsd.edu/) within a few hours. 
+
 
 ### Office Hours
 
