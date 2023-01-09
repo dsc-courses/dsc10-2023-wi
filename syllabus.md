@@ -265,10 +265,26 @@ your Gradescope submission.
 Labs, homeworks, and projects must be submitted by 11:59pm on the due date to
 be considered on time. You may turn them in as many times as you like before
 the deadline, and only the most recent submission will be graded, so it's a
-good habit to submit early and often. If you make a submission after the
-deadline, your assignment will be counted as late.
+good habit to submit early and often. 
 
-You have **six "slip days"** to use throughout the quarter. A slip day extends
+When submitting any assignment on Gradescope, make sure to stick around until you 
+see a confirmation that all tests have passed. If the Gradescope autograder 
+cannot grade your work or you see a message saying "Your submission timed out," 
+this indicates an error with your code, and it is your responsibility to identify 
+and solve the problem before the deadline. 
+
+It may take some time for Gradescope's autograder to grade your submission. 
+You are encouraged to submit 
+with enough time to see the output of the autograder before the 11:59pm deadline, 
+as it may alert you to a problem you need to fix. However, if you submit before 
+11:59pm and the autograder finishes after 11:59pm, your assigment will still be 
+considered on time. 
+
+After submitting, check that you got a confirmation email 
+from Gradescope to verify that your submission was successful. Save this email 
+until you recieve your grade on the assignment, in case of any issues with your submission.
+
+You are allotted **six "slip days"** to use throughout the quarter. A slip day extends
 the deadline of any one homework, lab, or project by 24 hours. You cannot turn
 in any assignments more than 48 hours late, meaning that you cannot use more
 than 2 slip days on any assignment.
@@ -281,7 +297,7 @@ to submit your homework. Slip days are meant to be used in exceptional
 circumstances, so you probably should not need to use all six, but if you have
 something going on in your life that is impeding your ability to do your
 classwork on time, please reach out to us as soon as possible so we can work
-something out.
+something out. 
 
 **Slip days are applied automatically at the end of the quarter, and you don't
 need to ask in order to use one.** It's your responsibility to keep track of
@@ -300,7 +316,7 @@ in your grade.
 
 It is your responsibility to ensure that your work is submitted correctly to
 Gradescope as a `.ipynb` file. Watch 20:05 and onwards of [this
-video](https://youtu.be/Hq8VaNirDRQ?t=1206) to see the two ways of downloading
+video](https://youtu.be/Hq8VaNirDRQ?t=1206) to see two ways of downloading
 Jupyter notebooks as a `.ipynb` file.
 
 When submitting your work, there are two potential errors to watch out for:
@@ -308,22 +324,23 @@ When submitting your work, there are two potential errors to watch out for:
 1. Submitting your notebook in the wrong format, e.g. submitting as a `.json`
    or `.txt` file instead of a `.ipynb` file. If you do this, the Gradescope
    autograder will not be able to grade your work, and you will get a 0. This
-   can almost certainly be avoided by watching the aforementioned video.
+   can almost certainly be avoided by watching the aforementioned video, and by 
+   waiting until you see confirmation from Gradescope that all tests have passed. 
 2. Submitting the wrong notebook, e.g. submitting your Lab 6 notebook to the
    Homework 6 assignment on Gradescope. This will also give you a 0, because
    the Gradescope autograder for a particular assignment can only grade your
-   work for that assignment.
+   work for that assignment. To avoid this error, make sure to stick around on 
+   Gradescope after submission until you see that all tests have passed.
 
 To prevent these issues, it is important that you (1) double-check that you are
 submitting the right notebook in the right format to Gradescope, and (2) let
 the autograder run on Gradescope until it shows you under “Public Tests” that
 all public test cases passed.
 
-If you happen to make one of the above mistakes and the assignment deadline has
-passed, you should reach out to a staff member and they will notify the tutor
-in charge of processing assignment submissions. Since it’s your responsibility
-to ensure that all assignments are submitted correctly, you will lose a slip
-day if we have to resubmit for you.
+If you happen to make one of the above mistakes and you notice it yourself 
+within 48 hours of the deadline, please resubmit your assignment. If it is more than 48 hours since the deadline,
+please reach out to a staff member and we may resubmit for you, which will cost you 2 slip days.
+It is your responsibility to ensure that all assignments are submitted correctly.
 
 ---
 
