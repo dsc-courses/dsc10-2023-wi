@@ -49,7 +49,7 @@ There are three lecture sections:
 - B00: MWF 11-11:50am ([CSB 001](https://map.concept3d.com/?id=1005#!m/237176))
 - D00: MWF 9-9:50am ([CSB 001](https://map.concept3d.com/?id=1005#!m/237176))
 
-Lecture is meant to introduce to the main concepts of the course. Attendance is optional, but students who attend have an opportunity to earn extra credit. Attending lecture live gives you the opportunity to ask questions, answer ungraded concept-check polls, and participate in discussion.
+Lecture is meant to introduce to the main concepts of the course. Attendance is optional, but students who attend live will have an opportunity to earn extra credit. Attending lecture gives you the opportunity to ask questions, answer ungraded concept-check polls, and participate in discussion.
 
 You can attend any lecture section, but if space fills up, priority will be given to students officially enrolled in that section. For the midterm exam, you must attend the lecture section in which you are officially enrolled.
 
@@ -57,7 +57,7 @@ Course TAs will hold four discussion sections each Wednesday, and you will be as
 
 Note that in the schedule of courses, this course is listed as having a discussion section (DI) and lab section (LA), but we will not necessarily be staffing course meetings at these times. Please ignore these times and instead, refer to the table below to find your assigned discussion section.
 
-|     | A00 (10am lecture)                                         | B00 (10am lecture) | D00 (10am lecture) |
+| Last Name   | A00 (10am lecture)                                         | B00 (10am lecture) | D00 (10am lecture) |
 |-----|------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|
 | **A-G** | Discussion: Wednesday 1pm<br>Room: Center 212<br>TA: Dylan | Discussion: Wednesday 2pm<br>Room: Center 212<br>TA: Dylan | Discussion: Wednesday 1pm<br>Room: Center 212<br>TA: Dylan |
 | **H-M** | Discussion: Wednesday 1pm<br>Room: Center 212<br>TA: Dylan | Discussion: Wednesday 2pm<br>Room: Center 212<br>TA: Dylan | Discussion: Wednesday 2pm<br>Room: Center 212<br>TA: Dylan                  |
@@ -66,7 +66,7 @@ Note that in the schedule of courses, this course is listed as having a discussi
 
 Discussion section is primarily focused on exam preparation. Students will work through problems from past DSC 10 exams and go over solutions with the TA. Attendance is optional, but students who attend have an opportunity to earn extra credit. Attending discussion section and working through practice problems in dicussion gives you direct experience with the types of questions you will see on the midterm and final exam.
 
-You must attend the discussion section you are assigned to. If you have a conflict, you can request to switch to a different time on the [Beginning of Quarter Survey](https://forms.gle/Wvdn296GoPHBC59d6).
+You must attend the discussion section you are assigned to according to the table above. If you have a conflict, you can request to switch to a section at a different time on the [Beginning of Quarter Survey](https://forms.gle/Wvdn296GoPHBC59d6).
 
 To encourage regular attendance in lecture and discussion, we will offer extra credit for in-person attendance. Each lecture section will take attendance 8 times throughout the quarter, and each discussion section will take attendance 4 times throughout the quarter. You won't know in advance which days attendance will be taken, and it won't necessarily be on the same day in each lecture or discussion section. Each time that you are present and fill out the attendance form, you will earn 0.2% of extra credit on your overall course grade, up to a maximum of 2%. This means you can still earn the maximum possible extra credit even if you miss two course meetings at which attendance is taken. 
 
@@ -116,17 +116,17 @@ First and foremost, you will need access to a computer (or tablet with a
 keyboard) and a stable internet connection to participate in this course. UCSD
 has a Laptop Loaner program which may be helpful, but you should also contact
 us if you have any concerns about access to technology. You will not need a
-webcam for this course. Most students bring a computer to lecture, and a computer will be necessary to attend discussion section.
+webcam for this course. Most students bring a computer to lecture, and a computer or tablet will be necessary to attend discussion section.
 
 All course content will be linked from this website, but there are a few
 additional platforms that you'll need to access:
 
 - **EdStem:** We'll be using EdStem as our course message and
   discussion board. More details are in the [Communication](#communication-)
-  section below. If you didn't already get an invitation, [join here](https://edstem.org/us/join/TqQEZA).
+  section below. If you didn't already get an invitation, [join here]( https://edstem.org/us/join/byz2en).
 
 - **Gradescope:** You'll submit all assignments and exams to
-  [Gradescope](https://www.gradescope.com/courses/443300). This is where all of
+  [Gradescope](https://www.gradescope.com/courses/484381 ). This is where all of
   your grades will live as well. If you didn't already get an invitation to our
   Gradescope course, reach out to the instructors on EdStem.
 
@@ -142,7 +142,7 @@ an account through UCSD; see the [Zoom guide][zoom] for more help.
 
 [zoom]: https://edtech.ucsd.edu/education-continuity-tools-and-resources/zoom-guides.html 
 
-Note that we will not be using Canvas this quarter.
+Note that we will not be using Canvas this quarter. Please do not contact the staff through Canvas.
 
 ### Beginning of Quarter Survey
 
@@ -197,7 +197,7 @@ assignment and all the tests pass, you'll get a perfect score!
 To submit a lab, follow the instructions in the assignment to upload your
 notebook to Gradescope, which will run automated tests and assign your score.
 You should verify that all of your test cases pass on Gradescope **before the
-deadline**. Lab assignments will be due on **Saturdays at 11:59pm**. We will
+deadline**. Lab assignments will usually be due on **Saturdays at 11:59pm**. We will
 release lab assignments roughly a week before they're due. The lowest lab score
 is dropped from the grade calculation.
 
@@ -231,8 +231,8 @@ submission, this only means that you've passed the formatting tests, not the
 hidden correctness tests that determine your score.
 
 To submit a homework, follow the instructions in the assignment to upload your
-notebook to Gradescope. Homeworks will be due on **Tuesdays at
-11:59pm**. We will release homework assignments roughly a week before they're
+notebook to Gradescope. Homeworks will usually be due **Tuesdays at
+11:59pm**, but the last two homeworks will be due on Thursdays at 11:59pm. We will release homework assignments roughly a week before they're
 due. The lowest homework score is dropped from the grade calculation.
 
 Like labs, homeworks must be completed and submitted individually, but we
@@ -256,13 +256,8 @@ and the hidden correctness tests have been run.
 
 Unlike labs and homeworks, you may work with a partner on projects. Your
 partner can be anyone else in either section of the course. If you choose to
-work with a partner, you must practice [pair programming](../pair-programming).
-This means that you should work on the assignment synchronously, discussing
-each problem together and writing each answer together, taking turns of who is
-in control of the coding. Please read the [section of this website dedicated to
-pair programming](../pair-programming) to learn more about how this works, and
-some of the benefits of working in pairs. If working with a partner, only one
-of you should submit the assignment, and you'll be able to tag your partner in
+work with a partner, start by reading these [project partner guidelines](../project-partners).
+If working with a partner, only one of you should submit the assignment, and you'll be able to tag your partner in
 your Gradescope submission.
 
 ### Deadlines and Slip Days
@@ -339,12 +334,10 @@ though the final exam will emphasize material after the midterm.
 
 Exams will be in-person individual exams during your scheduled lecture. You must attend the exam corresponding to the section you are officially enrolled in.
 
-- Midterm Exam: Friday, October 28, during lecture (50 minutes)
-- Final Exam: Saturday, December 3, 11:30am-2:30pm
+- Midterm Exam: Friday, February 10, during lecture (50 minutes)
+- Final Exam: Saturday, March 18, 3-6pm
 
-We are aware that the DSC 10 exam conflicts with the final exam for MATH 20A. Fortunately, MATH 20A is providing an alternate exam for students with this conflict, so you should take the DSC 10 exam as scheduled and the MATH 20A exam at the alternate time provided by your math instructor. 
-
-Students taking another course with a conflicting final exam should let us know right away via the [Beginning of Quarter Survey](https://forms.gle/Wvdn296GoPHBC59d6) to see if accomodations can be made. Without express permission otherwise, students are required to take the final exam at the scheduled time.
+If you have a conflict with an exam, you should let us know right away via the [Beginning of Quarter Survey](https://forms.gle/Wvdn296GoPHBC59d6) to see if accomodations can be made. Without express permission otherwise, students are required to take both exams at the scheduled times.
 
 ---
 
@@ -354,7 +347,7 @@ To summarize all of the events and deadlines, refer to this general weekly
 schedule (which is subject to change in any given week):
 
 | **Sunday** | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** |
-| Nothing! 😎 | Lecture and Discussion | | Lecture | | Lecture | |
+| Nothing! 😎 | Lecture| | Lecture and Discussion | | Lecture | |
 | | | <b style="color:red">Homework due</b> | | | | <b style="color:red">Lab due</b> |
 
 ---
@@ -366,12 +359,12 @@ how grades will be computed:
 
 | **Component** | **Weight** | **Notes** |
 | Lab Assignments | 15% | drop lowest score |
-| Homework Assignments | 35% | drop lowest score |
-| Midterm Project | 10% | |
+| Homework Assignments | 25% | drop lowest score |
+| Midterm Project | 15% | |
 | Midterm Exam | 10% | |
 | Final Project | 15% | |
-| Final Exam | 15% | |
-| Discussion Section | 2% (extra credit) | |
+| Final Exam | 20% | |
+| Attendance | 2% (extra credit) | |
 
 Note that each lab and each homework assignment will be worth the same amount,
 regardless of the number of points it is graded out of. 
