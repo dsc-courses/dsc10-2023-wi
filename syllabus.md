@@ -57,7 +57,7 @@ Course TAs will hold four discussion sections each Wednesday, and you will be as
 
 Note that in the schedule of courses, this course is listed as having a discussion section (DI) and lab section (LA), but we will not necessarily be staffing course meetings at these times. Please ignore these times and instead, refer to the table below to find your assigned discussion section.
 
-| Last Name   | A00 (10am lecture)                                         | B00 (10am lecture) | D00 (10am lecture) |
+| Last Name   | A00 (10am lecture)                                         | B00 (11am lecture) | D00 (9am lecture) |
 |-----|------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|
 | **A-G** | Discussion: Wednesday 1pm<br>Room: Center 212<br>TA: Dylan | Discussion: Wednesday 2pm<br>Room: Center 212<br>TA: Dylan | Discussion: Wednesday 1pm<br>Room: Center 212<br>TA: Dylan |
 | **H-M** | Discussion: Wednesday 1pm<br>Room: Center 212<br>TA: Dylan | Discussion: Wednesday 2pm<br>Room: Center 212<br>TA: Dylan | Discussion: Wednesday 2pm<br>Room: Center 212<br>TA: Dylan                  |
