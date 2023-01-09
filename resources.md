@@ -22,7 +22,7 @@ nav_order: 4
 These resources will directly complement the content from lectures and assignments in this course. Use them often!
 
 - [Textbook: Computational and Inferential Thinking](https://inferentialthinking.com)
-- [DSC 10 Reference Sheet (handy summary)](https://drive.google.com/file/d/1mQApk9Ovdi-QVqMgnNcq5dZcWucUKoG-/view?usp=sharing)
+- DSC 10 Reference Sheet (handy summary) - coming soon
 - [`babypandas` notes](https://notes.dsc10.com)
 - [`babypandas` Documentation](https://babypandas.readthedocs.io/en/latest/index.html)
 - [PandasTutor, a DataFrame visualization tool](https://pandastutor.com/vis.html)
