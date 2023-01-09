@@ -4,7 +4,7 @@
     days:
       - date: 2023-1-9
         events:
-          "**LEC 1**{: .label .label-lecture } Introduction - **REMOTE** Lecture ([Zoom link](https://ucsd.zoom.us/j/97623586285))":
+          "**LEC 1**{: .label .label-lecture } [Introduction](https://datahub.ucsd.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdsc-courses%2Fdsc10-2023-wi&urlpath=tree%2Fdsc10-2023-wi%2Flectures%2Flec01%2Flec01.ipynb&branch=main) - **REMOTE** Lecture ([Zoom link](https://ucsd.zoom.us/j/97623586285)) [✏️](resources/lectures/lec01/lec01.html)":
             "[CIT 1.2-1.3](https://inferentialthinking.com/chapters/01/2/why-data-science.html)"
                 
           "**SUR**{: .label .label-survey } [Beginning of Quarter Survey](https://forms.gle/BFrjfmrRE1CqdjKa8)":
