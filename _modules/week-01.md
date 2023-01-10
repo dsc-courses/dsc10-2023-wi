@@ -10,7 +10,7 @@
           "**SUR**{: .label .label-survey } [Beginning of Quarter Survey](https://forms.gle/BFrjfmrRE1CqdjKa8)":
       - date: 2023-1-11
         events:
-          "**LEC 2**{: .label .label-lecture } Expressions and Data Types":
+          "**LEC 2**{: .label .label-lecture } Expressions and Data Types - **REMOTE** Lecture ([Zoom link](https://ucsd.zoom.us/j/97623586285))":
             "[BPD 1-6](https://notes.dsc10.com/01-getting_started/tools.html)"
             
           "**DIS 1**{: .label .label-disc } Getting Started with Jupyter Notebooks":
