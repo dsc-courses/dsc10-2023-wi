@@ -22,5 +22,5 @@
       - date: 2023-3-18
         events:
           "**SUR**{: .label .label-survey } End of Quarter Survey + CAPEs":
-          "**Exam**{: .label .label-exam } **Final Exam (11:30AM-2:30PM)**":
+          "**Exam**{: .label .label-exam } **Final Exam (3-6PM)**":
 ---
