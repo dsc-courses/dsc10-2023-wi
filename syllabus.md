@@ -49,7 +49,7 @@ There are three lecture sections:
 - B00: MWF 11-11:50am ([CSB 001](https://map.concept3d.com/?id=1005#!m/237176))
 - D00: MWF 9-9:50am ([CSB 001](https://map.concept3d.com/?id=1005#!m/237176))
 
-Lecture is meant to introduce to the main concepts of the course. Attendance is optional, but students who attend live will have an opportunity to earn extra credit. Attending lecture gives you the opportunity to ask questions, answer ungraded concept-check polls, and participate in discussion.
+Lecture is meant to introduce you to the main concepts of the course. Attendance is optional, but students who attend live will have an opportunity to earn extra credit. Attending lecture gives you the opportunity to ask questions, answer ungraded concept-check polls, and participate in discussion.
 
 You can attend any lecture section, but if space fills up, priority will be given to students officially enrolled in that section. For the midterm exam, you must attend the lecture section in which you are officially enrolled.
 
