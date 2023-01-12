@@ -77,7 +77,7 @@ This can happen if you click the name of a course other than DSC 10 when logging
 
 ### Other errors
 
-It can be difficult to decipher the meaning of error messages in Python. [Here is a useful guide](https://swcarpentry.github.io/python-novice-inflammation/07-errors/index.html). You can also ask in office hours, or on EdStem, provided you are not posting your code publicly or otherwise giving away the answer in your post. Understanding cryptic error messages is a skill that comes with experience.
+It can be difficult to decipher the meaning of error messages in Python. [Here is a useful guide](https://swcarpentry.github.io/python-novice-inflammation/09-errors/index.html). You can also ask in office hours, or on EdStem, provided you are not posting your code publicly or otherwise giving away the answer in your post. Understanding cryptic error messages is a skill that comes with experience.
 
 ## DataHub
 
