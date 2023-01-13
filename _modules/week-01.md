@@ -17,7 +17,7 @@
                 
       - date: 2023-1-13
         events:
-          "**LEC 3**{: .label .label-lecture } [Strings and Arrays](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=lectures/lec03/lec03.ipynb) - **REMOTE** ([Zoom link](https://ucsd.zoom.us/j/97623586285)) [✏️](resources/lectures/lec03/lec03.html) ([extra video](https://www.youtube.com/watch?v=w_witptT6Ts))":
+          "**LEC 3**{: .label .label-lecture } [Strings and Arrays](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=lectures/lec03/lec03.ipynb) - **REMOTE** ([Zoom link](https://ucsd.zoom.us/j/97623586285)) [✏️](resources/lectures/lec03/lec03.html) [Watch 🎥](https://youtu.be/hqs1pJNxOy0) ([Extra video with solution to lottery problem](https://www.youtube.com/watch?v=w_witptT6Ts))":
             "[BPD 7-8](https://notes.dsc10.com/02-data_sets/arrays.html)"
                 
 ---
