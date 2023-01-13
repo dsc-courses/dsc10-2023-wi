@@ -6,7 +6,7 @@
         events:          
           "**Lab 0**{: .label .label-lab } [Expressions and Data Types](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=labs/lab00/lab00.ipynb)":
 
-      - date: 2022-1-18
+      - date: 2023-1-18
         events:
           "**LEC 4**{: .label .label-lecture } DataFrames: Accessing, Sorting, and Querying":
             "[BPD 9-10](https://notes.dsc10.com/02-data_sets/accessing.html)"
