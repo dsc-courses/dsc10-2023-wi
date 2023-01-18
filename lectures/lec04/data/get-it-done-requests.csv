@@ -1,0 +1,1063 @@
+neighborhood,service,closed,open
+Balboa Park,Dead Animal,4,0
+Balboa Park,Encampment,22,16
+Balboa Park,Environmental Services Code Compliance,0,1
+Balboa Park,Graffiti - Code Enforcement,0,1
+Balboa Park,Graffiti - Public,62,37
+Balboa Park,Illegal Dumping,3,4
+Balboa Park,Other,3,4
+Balboa Park,Parking,2,2
+Balboa Park,Parks Issue,33,15
+Balboa Park,Pavement Maintenance,0,1
+Balboa Park,Pothole,12,9
+Balboa Park,ROW Maintenance,0,7
+Balboa Park,Sidewalk Repair Issue,0,3
+Balboa Park,Stormwater,12,3
+Balboa Park,Stormwater Code Enforcement,3,0
+Balboa Park,Street Flooded,2,2
+Balboa Park,Street Light Maintenance,1,3
+Balboa Park,Street Sweeping,1,3
+Balboa Park,Traffic Engineering,0,1
+Balboa Park,Traffic Sign Maintenance,0,18
+Balboa Park,Traffic Signal Issue,1,0
+Balboa Park,Tree Maintenance,2,7
+Barrio Logan,Encampment,19,11
+Barrio Logan,Environmental Services Code Compliance,0,1
+Barrio Logan,Graffiti - Public,5,26
+Barrio Logan,Illegal Dumping,30,5
+Barrio Logan,Missed Collection,1,6
+Barrio Logan,Other,44,3
+Barrio Logan,Parking,7,3
+Barrio Logan,Pavement Maintenance,2,3
+Barrio Logan,Pothole,1,8
+Barrio Logan,ROW Maintenance,0,2
+Barrio Logan,Sidewalk Repair Issue,0,3
+Barrio Logan,Stormwater,0,2
+Barrio Logan,Stormwater Code Enforcement,0,5
+Barrio Logan,Street Light Maintenance,0,3
+Barrio Logan,Street Sweeping,0,1
+Barrio Logan,Traffic Engineering,0,1
+Barrio Logan,Traffic Sign Maintenance,0,4
+Barrio Logan,Traffic Signal Issue,3,1
+Barrio Logan,Traffic Signal Timing,3,0
+Barrio Logan,Tree Maintenance,1,2
+Barrio Logan,Waste on Private Property,0,1
+Black Mountain Ranch,Dead Animal,1,1
+Black Mountain Ranch,Environmental Services Code Compliance,0,1
+Black Mountain Ranch,Graffiti - Public,14,6
+Black Mountain Ranch,Illegal Dumping,0,1
+Black Mountain Ranch,Missed Collection,4,5
+Black Mountain Ranch,Parking,0,4
+Black Mountain Ranch,Parks Issue,1,0
+Black Mountain Ranch,ROW Maintenance,0,1
+Black Mountain Ranch,Stormwater Code Enforcement,0,1
+Black Mountain Ranch,Street Flooded,0,1
+Black Mountain Ranch,Street Light Maintenance,0,1
+Black Mountain Ranch,Traffic Sign Maintenance,1,1
+Black Mountain Ranch,Traffic Signal Issue,3,1
+Black Mountain Ranch,Traffic Signal Timing,1,0
+Black Mountain Ranch,Tree Maintenance,2,0
+Carmel Mountain Ranch,Encampment,1,2
+Carmel Mountain Ranch,Graffiti - Public,2,0
+Carmel Mountain Ranch,Illegal Dumping,0,1
+Carmel Mountain Ranch,Missed Collection,1,6
+Carmel Mountain Ranch,Other,2,0
+Carmel Mountain Ranch,Parking,2,5
+Carmel Mountain Ranch,Parks Issue,0,1
+Carmel Mountain Ranch,Pavement Maintenance,0,1
+Carmel Mountain Ranch,Pothole,3,59
+Carmel Mountain Ranch,ROW Maintenance,0,1
+Carmel Mountain Ranch,Right-of-Way Code Enforcement,0,1
+Carmel Mountain Ranch,Sidewalk Repair Issue,1,0
+Carmel Mountain Ranch,Stormwater Code Enforcement,0,3
+Carmel Mountain Ranch,Street Flooded,1,0
+Carmel Mountain Ranch,Traffic Sign Maintenance,0,1
+Carmel Mountain Ranch,Traffic Signal Issue,0,1
+Carmel Mountain Ranch,Traffic Signal Timing,1,0
+Carmel Mountain Ranch,Trash/Recycling Collection,0,1
+Carmel Valley,Encampment,0,1
+Carmel Valley,Environmental Services Code Compliance,1,0
+Carmel Valley,Graffiti - Public,0,1
+Carmel Valley,Illegal Dumping,0,1
+Carmel Valley,Missed Collection,55,17
+Carmel Valley,Other,4,1
+Carmel Valley,Parking,2,3
+Carmel Valley,Parks Issue,2,3
+Carmel Valley,Pothole,0,8
+Carmel Valley,ROW Maintenance,0,2
+Carmel Valley,Sidewalk Repair Issue,1,1
+Carmel Valley,Stormwater,0,1
+Carmel Valley,Stormwater Code Enforcement,1,3
+Carmel Valley,Street Light Maintenance,0,12
+Carmel Valley,Street Sweeping,1,1
+Carmel Valley,Traffic Engineering,0,2
+Carmel Valley,Traffic Signal Issue,6,1
+Carmel Valley,Traffic Signal Timing,2,0
+Carmel Valley,Trash/Recycling Collection,2,1
+Carmel Valley,Tree Maintenance,6,2
+Clairemont Mesa,Dead Animal,7,2
+Clairemont Mesa,Development Services - Code Enforcement,1,0
+Clairemont Mesa,Encampment,21,32
+Clairemont Mesa,Environmental Services Code Compliance,4,2
+Clairemont Mesa,Graffiti - Code Enforcement,3,2
+Clairemont Mesa,Graffiti - Public,21,20
+Clairemont Mesa,Illegal Dumping,66,12
+Clairemont Mesa,Missed Collection,118,43
+Clairemont Mesa,Other,8,6
+Clairemont Mesa,Parking,38,96
+Clairemont Mesa,Parks Issue,0,3
+Clairemont Mesa,Pavement Maintenance,0,6
+Clairemont Mesa,Pothole,46,381
+Clairemont Mesa,ROW Maintenance,3,11
+Clairemont Mesa,Right-of-Way Code Enforcement,0,1
+Clairemont Mesa,Sidewalk Repair Issue,4,8
+Clairemont Mesa,Stormwater,7,6
+Clairemont Mesa,Stormwater Code Enforcement,1,7
+Clairemont Mesa,Street Flooded,7,0
+Clairemont Mesa,Street Light Maintenance,2,23
+Clairemont Mesa,Street Sweeping,3,5
+Clairemont Mesa,Traffic Engineering,0,8
+Clairemont Mesa,Traffic Sign Maintenance,0,11
+Clairemont Mesa,Traffic Signal Issue,24,0
+Clairemont Mesa,Traffic Signal Timing,9,3
+Clairemont Mesa,Trash/Recycling Collection,2,4
+Clairemont Mesa,Tree Maintenance,14,15
+Clairemont Mesa,Vegetation Encroachment,1,1
+Clairemont Mesa,Waste on Private Property,1,1
+Clairemont Mesa,Weed Cleanup,2,0
+College Area,Dead Animal,4,0
+College Area,Encampment,14,8
+College Area,Environmental Services Code Compliance,16,22
+College Area,Graffiti - Code Enforcement,1,0
+College Area,Graffiti - Public,8,7
+College Area,Illegal Dumping,13,2
+College Area,Missed Collection,6,24
+College Area,Other,4,4
+College Area,Parking,12,33
+College Area,Pavement Maintenance,0,3
+College Area,Pothole,9,74
+College Area,ROW Maintenance,1,26
+College Area,Shared Mobility Device,1,0
+College Area,Sidewalk Repair Issue,0,2
+College Area,Stormwater,0,2
+College Area,Stormwater Code Enforcement,0,1
+College Area,Street Flooded,2,2
+College Area,Street Light Maintenance,0,2
+College Area,Street Sweeping,4,1
+College Area,Traffic Engineering,0,2
+College Area,Traffic Sign Maintenance,0,23
+College Area,Traffic Signal Issue,4,0
+College Area,Traffic Signal Timing,3,0
+College Area,Tree Maintenance,5,8
+College Area,Vegetation Encroachment,0,1
+Del Mar Mesa,Missed Collection,2,1
+Del Mar Mesa,Street Flooded,1,0
+Downtown,Dead Animal,6,1
+Downtown,Development Services - Code Enforcement,4,4
+Downtown,Encampment,315,527
+Downtown,Environmental Services Code Compliance,1,57
+Downtown,Graffiti - Code Enforcement,12,17
+Downtown,Graffiti - Public,111,166
+Downtown,Illegal Dumping,135,46
+Downtown,Missed Collection,3,3
+Downtown,Other,100,110
+Downtown,Parking,29,10
+Downtown,Parks Issue,2,2
+Downtown,Pavement Maintenance,1,4
+Downtown,Pothole,7,53
+Downtown,ROW Maintenance,7,30
+Downtown,Right-of-Way Code Enforcement,0,1
+Downtown,Shared Mobility Device,41,5
+Downtown,Sidewalk Repair Issue,8,16
+Downtown,Stormwater,2,14
+Downtown,Stormwater Code Enforcement,4,5
+Downtown,Street Flooded,13,2
+Downtown,Street Light Maintenance,10,420
+Downtown,Street Sweeping,3,1
+Downtown,Traffic Engineering,0,9
+Downtown,Traffic Sign Maintenance,2,42
+Downtown,Traffic Signal Issue,58,5
+Downtown,Traffic Signal Timing,11,1
+Downtown,Tree Maintenance,15,28
+Downtown,Vegetation Encroachment,1,0
+Downtown,Waste on Private Property,0,4
+Downtown,Weed Cleanup,1,0
+East Elliott,Graffiti - Public,1,1
+East Elliott,Pothole,0,2
+East Elliott,Traffic Signal Issue,1,0
+Encanto Neighborhoods,Dead Animal,4,3
+Encanto Neighborhoods,Development Services - Code Enforcement,1,0
+Encanto Neighborhoods,Encampment,9,13
+Encanto Neighborhoods,Environmental Services Code Compliance,0,5
+Encanto Neighborhoods,Graffiti - Code Enforcement,2,3
+Encanto Neighborhoods,Graffiti - Public,33,74
+Encanto Neighborhoods,Illegal Dumping,95,11
+Encanto Neighborhoods,Missed Collection,22,30
+Encanto Neighborhoods,Other,11,5
+Encanto Neighborhoods,Parking,18,36
+Encanto Neighborhoods,Pavement Maintenance,1,7
+Encanto Neighborhoods,Pothole,6,89
+Encanto Neighborhoods,ROW Maintenance,0,13
+Encanto Neighborhoods,Sidewalk Repair Issue,0,4
+Encanto Neighborhoods,Stormwater,3,7
+Encanto Neighborhoods,Stormwater Code Enforcement,0,4
+Encanto Neighborhoods,Street Flooded,4,5
+Encanto Neighborhoods,Street Light Maintenance,0,10
+Encanto Neighborhoods,Street Sweeping,2,1
+Encanto Neighborhoods,Traffic Engineering,0,3
+Encanto Neighborhoods,Traffic Sign Maintenance,3,15
+Encanto Neighborhoods,Traffic Signal Issue,13,0
+Encanto Neighborhoods,Traffic Signal Timing,3,0
+Encanto Neighborhoods,Trash/Recycling Collection,3,3
+Encanto Neighborhoods,Tree Maintenance,5,9
+Encanto Neighborhoods,Vegetation Encroachment,1,2
+Encanto Neighborhoods,Waste on Private Property,2,2
+Encanto Neighborhoods,Weed Cleanup,2,1
+Fairbanks Ranch Country Club,Stormwater,1,0
+Greater Golden Hill,Dead Animal,4,1
+Greater Golden Hill,Development Services - Code Enforcement,1,0
+Greater Golden Hill,Encampment,8,5
+Greater Golden Hill,Environmental Services Code Compliance,3,4
+Greater Golden Hill,Graffiti - Code Enforcement,0,2
+Greater Golden Hill,Graffiti - Public,34,52
+Greater Golden Hill,Illegal Dumping,10,23
+Greater Golden Hill,Missed Collection,29,8
+Greater Golden Hill,Other,1,2
+Greater Golden Hill,Parking,28,20
+Greater Golden Hill,Parks Issue,5,3
+Greater Golden Hill,Pavement Maintenance,0,3
+Greater Golden Hill,Pothole,5,20
+Greater Golden Hill,ROW Maintenance,0,7
+Greater Golden Hill,Sidewalk Repair Issue,0,1
+Greater Golden Hill,Stormwater,1,4
+Greater Golden Hill,Stormwater Code Enforcement,0,2
+Greater Golden Hill,Street Flooded,3,1
+Greater Golden Hill,Street Light Maintenance,1,10
+Greater Golden Hill,Traffic Engineering,0,2
+Greater Golden Hill,Traffic Sign Maintenance,2,17
+Greater Golden Hill,Traffic Signal Issue,1,0
+Greater Golden Hill,Trash/Recycling Collection,0,1
+Greater Golden Hill,Tree Maintenance,14,14
+Greater Golden Hill,Waste on Private Property,0,3
+Kearny Mesa,Dead Animal,6,0
+Kearny Mesa,Encampment,20,18
+Kearny Mesa,Environmental Services Code Compliance,0,2
+Kearny Mesa,Graffiti - Public,2,0
+Kearny Mesa,Illegal Dumping,12,9
+Kearny Mesa,Missed Collection,0,2
+Kearny Mesa,Other,5,0
+Kearny Mesa,Parking,18,18
+Kearny Mesa,Pothole,10,54
+Kearny Mesa,ROW Maintenance,2,1
+Kearny Mesa,Sidewalk Repair Issue,0,5
+Kearny Mesa,Stormwater,1,0
+Kearny Mesa,Street Flooded,4,1
+Kearny Mesa,Street Light Maintenance,0,1
+Kearny Mesa,Street Sweeping,1,0
+Kearny Mesa,Traffic Engineering,0,1
+Kearny Mesa,Traffic Sign Maintenance,0,3
+Kearny Mesa,Traffic Signal Issue,11,0
+Kearny Mesa,Traffic Signal Timing,7,1
+Kearny Mesa,Tree Maintenance,0,3
+La Jolla,Dead Animal,2,0
+La Jolla,Encampment,13,8
+La Jolla,Environmental Services Code Compliance,1,3
+La Jolla,Graffiti - Public,3,2
+La Jolla,Illegal Dumping,8,7
+La Jolla,Missed Collection,48,111
+La Jolla,Other,10,2
+La Jolla,Parking,40,12
+La Jolla,Parks Issue,4,10
+La Jolla,Pavement Maintenance,0,6
+La Jolla,Pothole,52,86
+La Jolla,ROW Maintenance,1,13
+La Jolla,Sidewalk Repair Issue,1,3
+La Jolla,Stormwater,1,2
+La Jolla,Stormwater Code Enforcement,1,4
+La Jolla,Street Flooded,2,2
+La Jolla,Street Light Maintenance,0,10
+La Jolla,Street Sweeping,4,5
+La Jolla,Traffic Engineering,0,4
+La Jolla,Traffic Sign Maintenance,2,24
+La Jolla,Traffic Signal Issue,11,1
+La Jolla,Traffic Signal Timing,3,1
+La Jolla,Trash/Recycling Collection,1,1
+La Jolla,Tree Maintenance,11,14
+Linda Vista,Dead Animal,7,0
+Linda Vista,Development Services - Code Enforcement,1,0
+Linda Vista,Encampment,11,21
+Linda Vista,Environmental Services Code Compliance,2,1
+Linda Vista,Graffiti - Public,9,8
+Linda Vista,Illegal Dumping,30,5
+Linda Vista,Missed Collection,6,9
+Linda Vista,Other,5,1
+Linda Vista,Parking,12,18
+Linda Vista,Parks Issue,1,3
+Linda Vista,Pavement Maintenance,0,3
+Linda Vista,Pothole,20,71
+Linda Vista,ROW Maintenance,0,5
+Linda Vista,Sidewalk Repair Issue,0,2
+Linda Vista,Stormwater,6,1
+Linda Vista,Stormwater Code Enforcement,0,3
+Linda Vista,Street Flooded,1,1
+Linda Vista,Street Light Maintenance,2,6
+Linda Vista,Traffic Engineering,0,2
+Linda Vista,Traffic Sign Maintenance,0,7
+Linda Vista,Traffic Signal Issue,1,1
+Linda Vista,Traffic Signal Timing,9,1
+Linda Vista,Trash/Recycling Collection,1,2
+Linda Vista,Tree Maintenance,3,3
+Linda Vista,Vegetation Encroachment,0,2
+Linda Vista,Waste on Private Property,2,1
+Linda Vista,Weed Cleanup,1,0
+Los Penasquitos Canyon,Pothole,0,1
+Mid-City:City Heights,Dead Animal,7,2
+Mid-City:City Heights,Development Services - Code Enforcement,6,1
+Mid-City:City Heights,Encampment,63,78
+Mid-City:City Heights,Environmental Services Code Compliance,11,9
+Mid-City:City Heights,Graffiti - Code Enforcement,10,10
+Mid-City:City Heights,Graffiti - Public,119,164
+Mid-City:City Heights,Illegal Dumping,451,31
+Mid-City:City Heights,Missed Collection,19,60
+Mid-City:City Heights,Other,21,4
+Mid-City:City Heights,Parking,55,81
+Mid-City:City Heights,Parks Issue,4,4
+Mid-City:City Heights,Pavement Maintenance,0,2
+Mid-City:City Heights,Pothole,21,60
+Mid-City:City Heights,ROW Maintenance,4,16
+Mid-City:City Heights,Right-of-Way Code Enforcement,0,1
+Mid-City:City Heights,Sidewalk Repair Issue,5,9
+Mid-City:City Heights,Stormwater,0,4
+Mid-City:City Heights,Stormwater Code Enforcement,3,9
+Mid-City:City Heights,Street Flooded,6,3
+Mid-City:City Heights,Street Light Maintenance,0,7
+Mid-City:City Heights,Street Sweeping,4,7
+Mid-City:City Heights,Traffic Engineering,0,3
+Mid-City:City Heights,Traffic Sign Maintenance,1,51
+Mid-City:City Heights,Traffic Signal Issue,10,1
+Mid-City:City Heights,Traffic Signal Timing,1,0
+Mid-City:City Heights,Trash/Recycling Collection,0,3
+Mid-City:City Heights,Tree Maintenance,11,21
+Mid-City:City Heights,Vegetation Encroachment,1,0
+Mid-City:City Heights,Waste on Private Property,5,7
+Mid-City:City Heights,Weed Cleanup,0,1
+Mid-City:Eastern Area,Dead Animal,6,2
+Mid-City:Eastern Area,Development Services - Code Enforcement,3,0
+Mid-City:Eastern Area,Encampment,81,29
+Mid-City:Eastern Area,Environmental Services Code Compliance,6,3
+Mid-City:Eastern Area,Graffiti - Code Enforcement,0,3
+Mid-City:Eastern Area,Graffiti - Public,41,29
+Mid-City:Eastern Area,Illegal Dumping,101,13
+Mid-City:Eastern Area,Missed Collection,13,27
+Mid-City:Eastern Area,Other,5,2
+Mid-City:Eastern Area,Parking,20,66
+Mid-City:Eastern Area,Parks Issue,1,3
+Mid-City:Eastern Area,Pavement Maintenance,0,4
+Mid-City:Eastern Area,Pothole,15,33
+Mid-City:Eastern Area,ROW Maintenance,1,14
+Mid-City:Eastern Area,Sidewalk Repair Issue,0,5
+Mid-City:Eastern Area,Stormwater,3,7
+Mid-City:Eastern Area,Stormwater Code Enforcement,2,0
+Mid-City:Eastern Area,Street Flooded,6,0
+Mid-City:Eastern Area,Street Light Maintenance,2,19
+Mid-City:Eastern Area,Street Sweeping,2,1
+Mid-City:Eastern Area,Traffic Sign Maintenance,0,17
+Mid-City:Eastern Area,Traffic Signal Issue,1,2
+Mid-City:Eastern Area,Traffic Signal Timing,1,0
+Mid-City:Eastern Area,Trash/Recycling Collection,1,0
+Mid-City:Eastern Area,Tree Maintenance,7,9
+Mid-City:Eastern Area,Vegetation Encroachment,0,2
+Mid-City:Eastern Area,Waste on Private Property,1,1
+Mid-City:Eastern Area,Weed Cleanup,2,0
+Mid-City:Kensington-Talmadge,Dead Animal,2,0
+Mid-City:Kensington-Talmadge,Encampment,11,4
+Mid-City:Kensington-Talmadge,Environmental Services Code Compliance,2,0
+Mid-City:Kensington-Talmadge,Graffiti - Code Enforcement,0,2
+Mid-City:Kensington-Talmadge,Graffiti - Public,7,11
+Mid-City:Kensington-Talmadge,Illegal Dumping,24,4
+Mid-City:Kensington-Talmadge,Missed Collection,8,9
+Mid-City:Kensington-Talmadge,Other,7,2
+Mid-City:Kensington-Talmadge,Parking,17,25
+Mid-City:Kensington-Talmadge,Pavement Maintenance,0,1
+Mid-City:Kensington-Talmadge,Pothole,3,11
+Mid-City:Kensington-Talmadge,ROW Maintenance,0,2
+Mid-City:Kensington-Talmadge,Right-of-Way Code Enforcement,0,1
+Mid-City:Kensington-Talmadge,Sidewalk Repair Issue,1,3
+Mid-City:Kensington-Talmadge,Stormwater,0,4
+Mid-City:Kensington-Talmadge,Stormwater Code Enforcement,1,1
+Mid-City:Kensington-Talmadge,Street Flooded,7,2
+Mid-City:Kensington-Talmadge,Street Light Maintenance,0,5
+Mid-City:Kensington-Talmadge,Street Sweeping,2,1
+Mid-City:Kensington-Talmadge,Traffic Sign Maintenance,1,5
+Mid-City:Kensington-Talmadge,Traffic Signal Timing,1,0
+Mid-City:Kensington-Talmadge,Trash/Recycling Collection,0,1
+Mid-City:Kensington-Talmadge,Tree Maintenance,6,5
+Mid-City:Kensington-Talmadge,Waste on Private Property,2,1
+Mid-City:Normal Heights,Encampment,21,7
+Mid-City:Normal Heights,Environmental Services Code Compliance,1,8
+Mid-City:Normal Heights,Graffiti - Code Enforcement,0,4
+Mid-City:Normal Heights,Graffiti - Public,6,23
+Mid-City:Normal Heights,Illegal Dumping,8,15
+Mid-City:Normal Heights,Missed Collection,8,25
+Mid-City:Normal Heights,Other,4,1
+Mid-City:Normal Heights,Parking,20,17
+Mid-City:Normal Heights,Parks Issue,1,0
+Mid-City:Normal Heights,Pavement Maintenance,0,6
+Mid-City:Normal Heights,Pothole,1,24
+Mid-City:Normal Heights,ROW Maintenance,0,3
+Mid-City:Normal Heights,Sidewalk Repair Issue,3,6
+Mid-City:Normal Heights,Stormwater,4,3
+Mid-City:Normal Heights,Stormwater Code Enforcement,1,2
+Mid-City:Normal Heights,Street Flooded,9,8
+Mid-City:Normal Heights,Street Light Maintenance,1,5
+Mid-City:Normal Heights,Street Sweeping,1,1
+Mid-City:Normal Heights,Traffic Engineering,0,2
+Mid-City:Normal Heights,Traffic Sign Maintenance,1,7
+Mid-City:Normal Heights,Traffic Signal Issue,2,0
+Mid-City:Normal Heights,Traffic Signal Timing,1,0
+Mid-City:Normal Heights,Trash/Recycling Collection,0,1
+Mid-City:Normal Heights,Tree Maintenance,5,9
+Mid-City:Normal Heights,Vegetation Encroachment,0,1
+Mid-City:Normal Heights,Waste on Private Property,0,1
+Midway-Pacific Highway,Encampment,58,29
+Midway-Pacific Highway,Environmental Services Code Compliance,1,0
+Midway-Pacific Highway,Graffiti - Code Enforcement,3,7
+Midway-Pacific Highway,Graffiti - Public,31,15
+Midway-Pacific Highway,Illegal Dumping,9,2
+Midway-Pacific Highway,Missed Collection,1,0
+Midway-Pacific Highway,Other,1,0
+Midway-Pacific Highway,Parking,6,1
+Midway-Pacific Highway,Pavement Maintenance,0,3
+Midway-Pacific Highway,Pothole,9,24
+Midway-Pacific Highway,ROW Maintenance,0,1
+Midway-Pacific Highway,Sidewalk Repair Issue,1,1
+Midway-Pacific Highway,Stormwater,0,3
+Midway-Pacific Highway,Street Flooded,4,2
+Midway-Pacific Highway,Street Light Maintenance,0,4
+Midway-Pacific Highway,Street Sweeping,0,1
+Midway-Pacific Highway,Traffic Sign Maintenance,2,2
+Midway-Pacific Highway,Traffic Signal Issue,2,1
+Midway-Pacific Highway,Traffic Signal Timing,2,0
+Military Facilities,Dead Animal,1,0
+Military Facilities,Parking,1,0
+Military Facilities,Pothole,3,6
+Military Facilities,ROW Maintenance,1,1
+Military Facilities,Traffic Sign Maintenance,0,3
+Mira Mesa,Dead Animal,19,4
+Mira Mesa,Development Services - Code Enforcement,1,0
+Mira Mesa,Encampment,0,65
+Mira Mesa,Environmental Services Code Compliance,0,4
+Mira Mesa,Graffiti - Code Enforcement,1,0
+Mira Mesa,Graffiti - Public,1,4
+Mira Mesa,Illegal Dumping,5,14
+Mira Mesa,Missed Collection,13,19
+Mira Mesa,Other,4,1
+Mira Mesa,Parking,25,26
+Mira Mesa,Parks Issue,3,2
+Mira Mesa,Pavement Maintenance,1,4
+Mira Mesa,Pothole,9,188
+Mira Mesa,ROW Maintenance,0,5
+Mira Mesa,Sidewalk Repair Issue,0,4
+Mira Mesa,Stormwater,4,3
+Mira Mesa,Stormwater Code Enforcement,2,3
+Mira Mesa,Street Flooded,5,1
+Mira Mesa,Street Light Maintenance,1,20
+Mira Mesa,Street Sweeping,1,0
+Mira Mesa,Traffic Engineering,0,5
+Mira Mesa,Traffic Sign Maintenance,2,14
+Mira Mesa,Traffic Signal Issue,28,5
+Mira Mesa,Traffic Signal Timing,16,3
+Mira Mesa,Tree Maintenance,3,1
+Mira Mesa,Vegetation Encroachment,0,1
+Mira Mesa,Waste on Private Property,0,1
+Mira Mesa,Weed Cleanup,1,1
+Miramar Ranch North,Graffiti - Public,0,1
+Miramar Ranch North,Missed Collection,2,6
+Miramar Ranch North,Parking,0,2
+Miramar Ranch North,Parks Issue,0,1
+Miramar Ranch North,Pothole,0,5
+Miramar Ranch North,Sidewalk Repair Issue,0,1
+Miramar Ranch North,Street Light Maintenance,1,13
+Miramar Ranch North,Traffic Engineering,0,1
+Miramar Ranch North,Traffic Sign Maintenance,0,1
+Miramar Ranch North,Traffic Signal Timing,1,0
+Miramar Ranch North,Tree Maintenance,3,0
+Miramar Ranch North,Weed Cleanup,1,0
+Mission Bay Park,Dead Animal,3,0
+Mission Bay Park,Encampment,35,32
+Mission Bay Park,Graffiti - Public,8,7
+Mission Bay Park,Illegal Dumping,4,1
+Mission Bay Park,Parking,0,3
+Mission Bay Park,Parks Issue,8,3
+Mission Bay Park,Pothole,1,22
+Mission Bay Park,ROW Maintenance,0,1
+Mission Bay Park,Sidewalk Repair Issue,2,0
+Mission Bay Park,Stormwater,1,1
+Mission Bay Park,Street Light Maintenance,0,6
+Mission Bay Park,Traffic Signal Issue,1,3
+Mission Bay Park,Traffic Signal Timing,1,0
+Mission Bay Park,Tree Maintenance,0,1
+Mission Beach,Dead Animal,1,0
+Mission Beach,Development Services - Code Enforcement,1,0
+Mission Beach,Encampment,0,1
+Mission Beach,Graffiti - Public,1,2
+Mission Beach,Illegal Dumping,5,0
+Mission Beach,Missed Collection,2,3
+Mission Beach,Other,2,0
+Mission Beach,Parking,10,2
+Mission Beach,Parks Issue,1,3
+Mission Beach,Pothole,1,0
+Mission Beach,ROW Maintenance,0,1
+Mission Beach,Shared Mobility Device,6,4
+Mission Beach,Sidewalk Repair Issue,1,4
+Mission Beach,Stormwater,3,2
+Mission Beach,Street Flooded,6,1
+Mission Beach,Street Light Maintenance,0,15
+Mission Beach,Street Sweeping,0,1
+Mission Beach,Traffic Sign Maintenance,0,5
+Mission Beach,Traffic Signal Issue,4,1
+Mission Beach,Traffic Signal Timing,1,0
+Mission Beach,Tree Maintenance,1,0
+Mission Beach,Waste on Private Property,1,1
+Mission Valley,Dead Animal,3,0
+Mission Valley,Encampment,98,34
+Mission Valley,Environmental Services Code Compliance,2,2
+Mission Valley,Graffiti - Code Enforcement,1,1
+Mission Valley,Graffiti - Public,7,5
+Mission Valley,Illegal Dumping,6,14
+Mission Valley,Other,5,3
+Mission Valley,Parking,4,11
+Mission Valley,Parks Issue,1,4
+Mission Valley,Pothole,8,37
+Mission Valley,ROW Maintenance,1,3
+Mission Valley,Sidewalk Repair Issue,0,1
+Mission Valley,Stormwater,4,5
+Mission Valley,Street Flooded,24,5
+Mission Valley,Street Light Maintenance,1,3
+Mission Valley,Street Sweeping,3,8
+Mission Valley,Traffic Sign Maintenance,3,5
+Mission Valley,Traffic Signal Issue,5,0
+Mission Valley,Traffic Signal Timing,5,2
+Mission Valley,Tree Maintenance,0,2
+Mission Valley,Weed Cleanup,1,0
+Navajo,Dead Animal,2,0
+Navajo,Development Services - Code Enforcement,1,0
+Navajo,Encampment,17,6
+Navajo,Environmental Services Code Compliance,0,4
+Navajo,Graffiti - Public,3,5
+Navajo,Illegal Dumping,2,6
+Navajo,Missed Collection,20,41
+Navajo,Other,10,2
+Navajo,Parking,7,33
+Navajo,Parks Issue,2,1
+Navajo,Pavement Maintenance,0,3
+Navajo,Pothole,3,137
+Navajo,ROW Maintenance,0,2
+Navajo,Sidewalk Repair Issue,2,6
+Navajo,Stormwater,3,7
+Navajo,Stormwater Code Enforcement,1,1
+Navajo,Street Flooded,3,0
+Navajo,Street Light Maintenance,0,8
+Navajo,Street Sweeping,2,2
+Navajo,Traffic Engineering,0,7
+Navajo,Traffic Sign Maintenance,1,11
+Navajo,Traffic Signal Issue,22,2
+Navajo,Traffic Signal Timing,7,2
+Navajo,Trash/Recycling Collection,1,3
+Navajo,Tree Maintenance,8,10
+Navajo,Vegetation Encroachment,0,2
+Navajo,Waste on Private Property,0,2
+Ncfua Subarea Ii,Pothole,1,2
+Ncfua Subarea Ii,Street Flooded,1,0
+Ncfua Subarea Ii,Traffic Sign Maintenance,0,1
+North Park,Dead Animal,9,0
+North Park,Development Services - Code Enforcement,4,0
+North Park,Encampment,42,51
+North Park,Environmental Services Code Compliance,3,13
+North Park,Graffiti - Code Enforcement,6,7
+North Park,Graffiti - Public,51,94
+North Park,Illegal Dumping,83,39
+North Park,Missed Collection,43,43
+North Park,Other,17,10
+North Park,Parking,128,68
+North Park,Parks Issue,2,1
+North Park,Pavement Maintenance,1,6
+North Park,Pothole,4,46
+North Park,ROW Maintenance,1,16
+North Park,Sidewalk Repair Issue,7,9
+North Park,Stormwater,3,4
+North Park,Stormwater Code Enforcement,2,3
+North Park,Street Flooded,7,3
+North Park,Street Light Maintenance,1,14
+North Park,Street Sweeping,4,6
+North Park,Traffic Engineering,0,8
+North Park,Traffic Sign Maintenance,5,31
+North Park,Traffic Signal Issue,7,0
+North Park,Traffic Signal Timing,8,0
+North Park,Trash/Recycling Collection,1,0
+North Park,Tree Maintenance,24,30
+North Park,Vegetation Encroachment,0,4
+North Park,Waste on Private Property,0,2
+North Park,Weed Cleanup,1,0
+Ocean Beach,Encampment,44,46
+Ocean Beach,Environmental Services Code Compliance,3,0
+Ocean Beach,Graffiti - Code Enforcement,0,4
+Ocean Beach,Graffiti - Public,27,4
+Ocean Beach,Illegal Dumping,62,5
+Ocean Beach,Missed Collection,8,6
+Ocean Beach,Other,7,1
+Ocean Beach,Parking,28,27
+Ocean Beach,Parks Issue,3,0
+Ocean Beach,Pavement Maintenance,0,1
+Ocean Beach,Pothole,0,8
+Ocean Beach,ROW Maintenance,1,2
+Ocean Beach,Sidewalk Repair Issue,2,4
+Ocean Beach,Stormwater Code Enforcement,0,2
+Ocean Beach,Street Light Maintenance,0,3
+Ocean Beach,Street Sweeping,2,0
+Ocean Beach,Traffic Engineering,0,1
+Ocean Beach,Traffic Sign Maintenance,1,8
+Ocean Beach,Traffic Signal Issue,5,0
+Ocean Beach,Trash/Recycling Collection,1,0
+Ocean Beach,Tree Maintenance,8,0
+Ocean Beach,Waste on Private Property,3,1
+Old Town San Diego,Encampment,8,6
+Old Town San Diego,Environmental Services Code Compliance,1,0
+Old Town San Diego,Graffiti - Code Enforcement,1,5
+Old Town San Diego,Graffiti - Public,5,5
+Old Town San Diego,Illegal Dumping,4,1
+Old Town San Diego,Missed Collection,0,1
+Old Town San Diego,Other,2,0
+Old Town San Diego,Parks Issue,0,1
+Old Town San Diego,Pothole,5,13
+Old Town San Diego,ROW Maintenance,1,1
+Old Town San Diego,Sidewalk Repair Issue,0,2
+Old Town San Diego,Stormwater Code Enforcement,1,0
+Old Town San Diego,Street Flooded,0,1
+Old Town San Diego,Street Sweeping,0,1
+Old Town San Diego,Traffic Sign Maintenance,1,3
+Old Town San Diego,Traffic Signal Issue,3,0
+Old Town San Diego,Tree Maintenance,1,0
+Otay Mesa,Dead Animal,2,0
+Otay Mesa,Encampment,0,2
+Otay Mesa,Environmental Services Code Compliance,0,1
+Otay Mesa,Graffiti - Code Enforcement,0,1
+Otay Mesa,Graffiti - Public,0,3
+Otay Mesa,Illegal Dumping,7,1
+Otay Mesa,Missed Collection,1,7
+Otay Mesa,Other,4,2
+Otay Mesa,Parking,24,17
+Otay Mesa,Parks Issue,0,1
+Otay Mesa,Pavement Maintenance,0,1
+Otay Mesa,Pothole,0,6
+Otay Mesa,ROW Maintenance,0,3
+Otay Mesa,Sidewalk Repair Issue,0,1
+Otay Mesa,Stormwater,0,1
+Otay Mesa,Street Flooded,0,2
+Otay Mesa,Street Light Maintenance,1,1
+Otay Mesa,Street Sweeping,1,0
+Otay Mesa,Traffic Engineering,0,2
+Otay Mesa,Traffic Sign Maintenance,0,2
+Otay Mesa,Traffic Signal Issue,3,1
+Otay Mesa,Traffic Signal Timing,2,0
+Otay Mesa,Tree Maintenance,1,4
+Otay Mesa,Vegetation Encroachment,1,0
+Otay Mesa-Nestor,Dead Animal,7,0
+Otay Mesa-Nestor,Encampment,0,33
+Otay Mesa-Nestor,Environmental Services Code Compliance,1,2
+Otay Mesa-Nestor,Graffiti - Code Enforcement,2,5
+Otay Mesa-Nestor,Graffiti - Public,19,33
+Otay Mesa-Nestor,Illegal Dumping,30,2
+Otay Mesa-Nestor,Missed Collection,14,33
+Otay Mesa-Nestor,Other,9,4
+Otay Mesa-Nestor,Parking,19,42
+Otay Mesa-Nestor,Parks Issue,7,7
+Otay Mesa-Nestor,Pavement Maintenance,0,7
+Otay Mesa-Nestor,Pothole,2,30
+Otay Mesa-Nestor,ROW Maintenance,0,5
+Otay Mesa-Nestor,Sidewalk Repair Issue,0,2
+Otay Mesa-Nestor,Stormwater,0,3
+Otay Mesa-Nestor,Stormwater Code Enforcement,0,2
+Otay Mesa-Nestor,Street Flooded,0,2
+Otay Mesa-Nestor,Street Light Maintenance,0,9
+Otay Mesa-Nestor,Traffic Sign Maintenance,1,1
+Otay Mesa-Nestor,Traffic Signal Issue,6,1
+Otay Mesa-Nestor,Traffic Signal Timing,0,1
+Otay Mesa-Nestor,Trash/Recycling Collection,3,0
+Otay Mesa-Nestor,Tree Maintenance,4,5
+Pacific Beach,Dead Animal,5,0
+Pacific Beach,Encampment,30,10
+Pacific Beach,Environmental Services Code Compliance,9,7
+Pacific Beach,Graffiti - Code Enforcement,1,9
+Pacific Beach,Graffiti - Public,29,21
+Pacific Beach,Illegal Dumping,57,12
+Pacific Beach,Missed Collection,26,68
+Pacific Beach,Other,13,5
+Pacific Beach,Parking,60,41
+Pacific Beach,Parks Issue,4,3
+Pacific Beach,Pavement Maintenance,0,4
+Pacific Beach,Pothole,36,103
+Pacific Beach,ROW Maintenance,2,1
+Pacific Beach,Right-of-Way Code Enforcement,0,1
+Pacific Beach,Shared Mobility Device,5,4
+Pacific Beach,Sidewalk Repair Issue,8,5
+Pacific Beach,Stormwater,2,1
+Pacific Beach,Stormwater Code Enforcement,4,2
+Pacific Beach,Street Flooded,4,0
+Pacific Beach,Street Light Maintenance,4,12
+Pacific Beach,Street Sweeping,4,1
+Pacific Beach,Traffic Engineering,1,2
+Pacific Beach,Traffic Sign Maintenance,4,14
+Pacific Beach,Traffic Signal Issue,11,2
+Pacific Beach,Traffic Signal Timing,2,1
+Pacific Beach,Trash/Recycling Collection,3,7
+Pacific Beach,Tree Maintenance,22,15
+Pacific Beach,Waste on Private Property,1,1
+Pacific Highlands Ranch,Illegal Dumping,1,0
+Pacific Highlands Ranch,Missed Collection,2,9
+Pacific Highlands Ranch,Other,1,0
+Pacific Highlands Ranch,Parking,0,1
+Pacific Highlands Ranch,Parks Issue,0,1
+Pacific Highlands Ranch,Pavement Maintenance,0,1
+Pacific Highlands Ranch,Pothole,0,5
+Pacific Highlands Ranch,Stormwater Code Enforcement,0,1
+Pacific Highlands Ranch,Street Light Maintenance,0,1
+Pacific Highlands Ranch,Traffic Engineering,1,0
+Pacific Highlands Ranch,Traffic Sign Maintenance,1,2
+Pacific Highlands Ranch,Traffic Signal Issue,3,0
+Pacific Highlands Ranch,Trash/Recycling Collection,2,0
+Peninsula,Dead Animal,14,0
+Peninsula,Encampment,70,28
+Peninsula,Environmental Services Code Compliance,1,0
+Peninsula,Graffiti - Public,3,8
+Peninsula,Illegal Dumping,39,3
+Peninsula,Missed Collection,40,50
+Peninsula,Other,5,1
+Peninsula,Parking,25,80
+Peninsula,Parks Issue,2,9
+Peninsula,Pavement Maintenance,0,4
+Peninsula,Pothole,11,44
+Peninsula,ROW Maintenance,1,5
+Peninsula,Sidewalk Repair Issue,2,8
+Peninsula,Stormwater,3,10
+Peninsula,Stormwater Code Enforcement,1,5
+Peninsula,Street Flooded,9,4
+Peninsula,Street Light Maintenance,1,22
+Peninsula,Street Sweeping,2,3
+Peninsula,Traffic Engineering,0,4
+Peninsula,Traffic Sign Maintenance,1,9
+Peninsula,Traffic Signal Issue,9,0
+Peninsula,Traffic Signal Timing,3,0
+Peninsula,Trash/Recycling Collection,1,3
+Peninsula,Tree Maintenance,9,13
+Peninsula,Waste on Private Property,0,1
+Rancho Bernardo,Dead Animal,3,0
+Rancho Bernardo,Environmental Services Code Compliance,0,1
+Rancho Bernardo,Graffiti - Public,2,2
+Rancho Bernardo,Illegal Dumping,0,1
+Rancho Bernardo,Missed Collection,78,19
+Rancho Bernardo,Other,2,2
+Rancho Bernardo,Parking,1,6
+Rancho Bernardo,Parks Issue,1,0
+Rancho Bernardo,Pavement Maintenance,0,1
+Rancho Bernardo,Pothole,4,48
+Rancho Bernardo,ROW Maintenance,1,1
+Rancho Bernardo,Sidewalk Repair Issue,1,1
+Rancho Bernardo,Stormwater,2,2
+Rancho Bernardo,Stormwater Code Enforcement,1,2
+Rancho Bernardo,Street Flooded,1,1
+Rancho Bernardo,Street Light Maintenance,0,14
+Rancho Bernardo,Traffic Sign Maintenance,0,5
+Rancho Bernardo,Traffic Signal Issue,1,0
+Rancho Bernardo,Traffic Signal Timing,1,0
+Rancho Bernardo,Tree Maintenance,1,1
+Rancho Encantada,Missed Collection,2,1
+Rancho Encantada,Parking,0,1
+Rancho Encantada,Pothole,0,1
+Rancho Encantada,Stormwater,1,0
+Rancho Encantada,Street Light Maintenance,0,2
+Rancho Penasquitos,Dead Animal,4,1
+Rancho Penasquitos,Encampment,0,7
+Rancho Penasquitos,Environmental Services Code Compliance,0,1
+Rancho Penasquitos,Graffiti - Code Enforcement,0,1
+Rancho Penasquitos,Graffiti - Public,3,0
+Rancho Penasquitos,Illegal Dumping,0,4
+Rancho Penasquitos,Missed Collection,33,16
+Rancho Penasquitos,Other,3,0
+Rancho Penasquitos,Parking,9,8
+Rancho Penasquitos,Parks Issue,2,2
+Rancho Penasquitos,Pothole,4,52
+Rancho Penasquitos,ROW Maintenance,2,1
+Rancho Penasquitos,Sidewalk Repair Issue,1,3
+Rancho Penasquitos,Stormwater,1,4
+Rancho Penasquitos,Stormwater Code Enforcement,2,2
+Rancho Penasquitos,Street Light Maintenance,1,16
+Rancho Penasquitos,Street Sweeping,1,0
+Rancho Penasquitos,Traffic Engineering,0,1
+Rancho Penasquitos,Traffic Sign Maintenance,0,3
+Rancho Penasquitos,Traffic Signal Issue,5,1
+Rancho Penasquitos,Traffic Signal Timing,5,1
+Rancho Penasquitos,Trash/Recycling Collection,1,1
+Rancho Penasquitos,Tree Maintenance,1,0
+Reserve,Encampment,0,1
+Reserve,Graffiti - Code Enforcement,0,1
+Reserve,Graffiti - Public,2,0
+Reserve,Other,0,1
+Reserve,Pothole,4,1
+Reserve,ROW Maintenance,0,1
+Reserve,Street Sweeping,0,1
+Reserve,Traffic Signal Issue,1,0
+Reserve,Traffic Signal Timing,4,0
+Sabre Springs,Encampment,4,1
+Sabre Springs,Graffiti - Public,0,1
+Sabre Springs,Missed Collection,5,3
+Sabre Springs,Other,1,0
+Sabre Springs,Parking,4,4
+Sabre Springs,Pothole,2,32
+Sabre Springs,Stormwater Code Enforcement,0,1
+Sabre Springs,Street Flooded,0,1
+Sabre Springs,Street Light Maintenance,0,1
+Sabre Springs,Traffic Sign Maintenance,0,3
+Sabre Springs,Traffic Signal Timing,1,0
+San Pasqual,ROW Maintenance,0,1
+San Pasqual,Street Flooded,3,0
+San Pasqual,Street Sweeping,0,1
+San Ysidro,Dead Animal,1,0
+San Ysidro,Development Services - Code Enforcement,1,0
+San Ysidro,Encampment,0,9
+San Ysidro,Environmental Services Code Compliance,0,2
+San Ysidro,Graffiti - Code Enforcement,1,0
+San Ysidro,Graffiti - Public,9,11
+San Ysidro,Illegal Dumping,10,3
+San Ysidro,Missed Collection,3,13
+San Ysidro,Other,6,1
+San Ysidro,Parking,17,16
+San Ysidro,Parks Issue,2,0
+San Ysidro,Pothole,1,5
+San Ysidro,Sidewalk Repair Issue,2,1
+San Ysidro,Stormwater,3,0
+San Ysidro,Stormwater Code Enforcement,0,1
+San Ysidro,Street Light Maintenance,0,4
+San Ysidro,Traffic Sign Maintenance,0,7
+San Ysidro,Traffic Signal Issue,9,0
+San Ysidro,Traffic Signal Timing,1,0
+San Ysidro,Tree Maintenance,1,2
+San Ysidro,Vegetation Encroachment,0,2
+San Ysidro,Weed Cleanup,1,0
+Scripps Miramar Ranch,Encampment,0,1
+Scripps Miramar Ranch,Graffiti - Public,1,0
+Scripps Miramar Ranch,Illegal Dumping,0,1
+Scripps Miramar Ranch,Missed Collection,3,13
+Scripps Miramar Ranch,Other,2,1
+Scripps Miramar Ranch,Parking,5,6
+Scripps Miramar Ranch,Parks Issue,4,1
+Scripps Miramar Ranch,Pavement Maintenance,3,4
+Scripps Miramar Ranch,Pothole,0,15
+Scripps Miramar Ranch,ROW Maintenance,0,3
+Scripps Miramar Ranch,Sidewalk Repair Issue,1,7
+Scripps Miramar Ranch,Stormwater,0,2
+Scripps Miramar Ranch,Street Light Maintenance,0,9
+Scripps Miramar Ranch,Traffic Sign Maintenance,1,2
+Scripps Miramar Ranch,Traffic Signal Issue,2,0
+Scripps Miramar Ranch,Traffic Signal Timing,3,2
+Scripps Miramar Ranch,Trash/Recycling Collection,2,0
+Scripps Miramar Ranch,Tree Maintenance,7,7
+Serra Mesa,Dead Animal,2,1
+Serra Mesa,Development Services - Code Enforcement,1,1
+Serra Mesa,Encampment,7,4
+Serra Mesa,Environmental Services Code Compliance,1,0
+Serra Mesa,Illegal Dumping,11,4
+Serra Mesa,Missed Collection,4,18
+Serra Mesa,Other,7,3
+Serra Mesa,Parking,29,11
+Serra Mesa,Parks Issue,3,0
+Serra Mesa,Pothole,5,36
+Serra Mesa,ROW Maintenance,1,4
+Serra Mesa,Sidewalk Repair Issue,1,3
+Serra Mesa,Stormwater,2,0
+Serra Mesa,Street Light Maintenance,0,1
+Serra Mesa,Street Sweeping,0,2
+Serra Mesa,Traffic Engineering,0,1
+Serra Mesa,Traffic Sign Maintenance,0,2
+Serra Mesa,Traffic Signal Issue,1,0
+Serra Mesa,Traffic Signal Timing,3,0
+Serra Mesa,Trash/Recycling Collection,0,2
+Serra Mesa,Tree Maintenance,3,4
+Skyline-Paradise Hills,Dead Animal,8,3
+Skyline-Paradise Hills,Encampment,7,14
+Skyline-Paradise Hills,Environmental Services Code Compliance,2,1
+Skyline-Paradise Hills,Graffiti - Code Enforcement,0,1
+Skyline-Paradise Hills,Graffiti - Public,13,14
+Skyline-Paradise Hills,Illegal Dumping,30,8
+Skyline-Paradise Hills,Missed Collection,23,58
+Skyline-Paradise Hills,Other,11,2
+Skyline-Paradise Hills,Parking,9,47
+Skyline-Paradise Hills,Parks Issue,2,3
+Skyline-Paradise Hills,Pavement Maintenance,0,4
+Skyline-Paradise Hills,Pothole,3,74
+Skyline-Paradise Hills,ROW Maintenance,0,1
+Skyline-Paradise Hills,Sidewalk Repair Issue,1,1
+Skyline-Paradise Hills,Stormwater,0,4
+Skyline-Paradise Hills,Stormwater Code Enforcement,1,0
+Skyline-Paradise Hills,Street Flooded,1,0
+Skyline-Paradise Hills,Street Light Maintenance,1,13
+Skyline-Paradise Hills,Street Sweeping,3,2
+Skyline-Paradise Hills,Traffic Engineering,0,1
+Skyline-Paradise Hills,Traffic Signal Issue,10,5
+Skyline-Paradise Hills,Trash/Recycling Collection,1,3
+Skyline-Paradise Hills,Tree Maintenance,8,4
+Skyline-Paradise Hills,Vegetation Encroachment,0,3
+Skyline-Paradise Hills,Waste on Private Property,0,1
+Skyline-Paradise Hills,Weed Cleanup,1,0
+Southeastern San Diego,Dead Animal,11,1
+Southeastern San Diego,Development Services - Code Enforcement,1,1
+Southeastern San Diego,Encampment,32,35
+Southeastern San Diego,Environmental Services Code Compliance,6,16
+Southeastern San Diego,Graffiti - Code Enforcement,2,4
+Southeastern San Diego,Graffiti - Public,55,213
+Southeastern San Diego,Illegal Dumping,338,50
+Southeastern San Diego,Missed Collection,42,43
+Southeastern San Diego,Other,15,20
+Southeastern San Diego,Parking,50,118
+Southeastern San Diego,Parks Issue,2,1
+Southeastern San Diego,Pavement Maintenance,0,15
+Southeastern San Diego,Pothole,5,37
+Southeastern San Diego,ROW Maintenance,2,19
+Southeastern San Diego,Sidewalk Repair Issue,2,12
+Southeastern San Diego,Stormwater,3,6
+Southeastern San Diego,Stormwater Code Enforcement,0,2
+Southeastern San Diego,Street Flooded,4,7
+Southeastern San Diego,Street Light Maintenance,4,46
+Southeastern San Diego,Street Sweeping,4,2
+Southeastern San Diego,Traffic Engineering,0,1
+Southeastern San Diego,Traffic Sign Maintenance,3,53
+Southeastern San Diego,Traffic Signal Issue,21,4
+Southeastern San Diego,Traffic Signal Timing,3,0
+Southeastern San Diego,Trash/Recycling Collection,2,3
+Southeastern San Diego,Tree Maintenance,12,44
+Southeastern San Diego,Waste on Private Property,2,5
+Southeastern San Diego,Weed Cleanup,0,1
+Tierrasanta,Encampment,0,1
+Tierrasanta,Graffiti - Public,2,1
+Tierrasanta,Illegal Dumping,1,0
+Tierrasanta,Missed Collection,4,2
+Tierrasanta,Other,1,1
+Tierrasanta,Parking,8,10
+Tierrasanta,Parks Issue,2,5
+Tierrasanta,Pavement Maintenance,0,3
+Tierrasanta,Pothole,0,34
+Tierrasanta,ROW Maintenance,1,1
+Tierrasanta,Sidewalk Repair Issue,2,4
+Tierrasanta,Stormwater,0,1
+Tierrasanta,Stormwater Code Enforcement,1,2
+Tierrasanta,Street Flooded,3,1
+Tierrasanta,Street Light Maintenance,0,15
+Tierrasanta,Street Sweeping,0,1
+Tierrasanta,Traffic Engineering,0,1
+Tierrasanta,Traffic Sign Maintenance,0,6
+Tierrasanta,Traffic Signal Issue,15,0
+Tierrasanta,Traffic Signal Timing,1,0
+Tierrasanta,Trash/Recycling Collection,1,0
+Tierrasanta,Tree Maintenance,10,1
+Tijuana River Valley,Pothole,0,3
+Tijuana River Valley,ROW Maintenance,1,0
+Tijuana River Valley,Street Light Maintenance,0,1
+Tijuana River Valley,Tree Maintenance,0,1
+Torrey Highlands,Environmental Services Code Compliance,0,2
+Torrey Highlands,Missed Collection,0,3
+Torrey Highlands,Other,0,1
+Torrey Highlands,Parking,0,3
+Torrey Highlands,Pothole,2,7
+Torrey Highlands,Sidewalk Repair Issue,0,1
+Torrey Highlands,Street Flooded,1,0
+Torrey Highlands,Street Light Maintenance,1,1
+Torrey Highlands,Street Sweeping,0,1
+Torrey Highlands,Traffic Signal Issue,4,1
+Torrey Highlands,Tree Maintenance,0,1
+Torrey Hills,Encampment,0,1
+Torrey Hills,Graffiti - Public,1,0
+Torrey Hills,Missed Collection,16,2
+Torrey Hills,Parking,2,4
+Torrey Hills,Parks Issue,1,0
+Torrey Hills,Pothole,0,5
+Torrey Hills,Street Flooded,1,0
+Torrey Hills,Street Light Maintenance,0,4
+Torrey Hills,Traffic Engineering,0,2
+Torrey Hills,Trash/Recycling Collection,0,2
+Torrey Hills,Tree Maintenance,1,1
+Torrey Pines,Development Services - Code Enforcement,1,0
+Torrey Pines,Encampment,0,1
+Torrey Pines,Graffiti - Public,0,2
+Torrey Pines,Illegal Dumping,0,2
+Torrey Pines,Missed Collection,2,4
+Torrey Pines,Parking,3,6
+Torrey Pines,Parks Issue,1,0
+Torrey Pines,Pavement Maintenance,0,1
+Torrey Pines,Pothole,15,29
+Torrey Pines,ROW Maintenance,0,2
+Torrey Pines,Sidewalk Repair Issue,1,0
+Torrey Pines,Stormwater,0,2
+Torrey Pines,Stormwater Code Enforcement,1,1
+Torrey Pines,Street Flooded,2,3
+Torrey Pines,Street Light Maintenance,1,6
+Torrey Pines,Street Sweeping,0,1
+Torrey Pines,Traffic Engineering,0,1
+Torrey Pines,Traffic Sign Maintenance,0,1
+Torrey Pines,Traffic Signal Issue,7,0
+Torrey Pines,Traffic Signal Timing,4,0
+Torrey Pines,Tree Maintenance,1,2
+University,Dead Animal,12,0
+University,Development Services - Code Enforcement,1,0
+University,Encampment,1,7
+University,Environmental Services Code Compliance,1,0
+University,Illegal Dumping,7,4
+University,Missed Collection,12,32
+University,Other,13,1
+University,Parking,16,13
+University,Pavement Maintenance,0,1
+University,Pothole,15,101
+University,ROW Maintenance,0,5
+University,Sidewalk Repair Issue,1,3
+University,Stormwater,1,0
+University,Stormwater Code Enforcement,3,2
+University,Street Flooded,1,0
+University,Street Light Maintenance,1,23
+University,Street Sweeping,2,0
+University,Traffic Engineering,0,2
+University,Traffic Sign Maintenance,1,5
+University,Traffic Signal Issue,10,6
+University,Traffic Signal Timing,8,0
+University,Trash/Recycling Collection,1,0
+University,Tree Maintenance,5,9
+University,Waste on Private Property,1,0
+University,Weed Cleanup,1,0
+Uptown,Dead Animal,4,0
+Uptown,Development Services - Code Enforcement,0,1
+Uptown,Encampment,102,60
+Uptown,Environmental Services Code Compliance,12,3
+Uptown,Graffiti - Code Enforcement,8,17
+Uptown,Graffiti - Public,227,94
+Uptown,Illegal Dumping,44,17
+Uptown,Missed Collection,27,41
+Uptown,Other,24,5
+Uptown,Parking,48,69
+Uptown,Parks Issue,2,4
+Uptown,Pavement Maintenance,1,9
+Uptown,Pothole,15,93
+Uptown,ROW Maintenance,2,11
+Uptown,Sidewalk Repair Issue,7,16
+Uptown,Stormwater,7,8
+Uptown,Stormwater Code Enforcement,1,4
+Uptown,Street Flooded,3,3
+Uptown,Street Light Maintenance,1,23
+Uptown,Street Sweeping,4,5
+Uptown,Traffic Engineering,1,0
+Uptown,Traffic Sign Maintenance,5,15
+Uptown,Traffic Signal Issue,18,2
+Uptown,Traffic Signal Timing,4,2
+Uptown,Trash/Recycling Collection,1,2
+Uptown,Tree Maintenance,19,29
+Uptown,Vegetation Encroachment,1,2
+Uptown,Waste on Private Property,3,1
+Uptown,Weed Cleanup,1,0
+Via De La Valle,Pothole,0,2
