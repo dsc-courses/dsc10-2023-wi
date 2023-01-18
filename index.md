@@ -13,7 +13,7 @@ nav_order: 1
 {{ site.staffersnobio }}
 
 {: .important } 
-Friday's lecture will be **remote** ([Zoom link here](https://ucsd.zoom.us/j/97623586285)) because Janine still has Covid. Monday is a holiday, and we'll almost certainly be able to start in-person instruction on Wednesday. 
+Starting Wednesday, January 17, lecture will be in-person in CSB 001!
 
 <!-- Lecture and discussion recordings can be found at [podcast.ucsd.edu](https://podcast.ucsd.edu). -->
 

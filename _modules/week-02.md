@@ -8,7 +8,7 @@
 
       - date: 2023-1-18
         events:
-          "**LEC 4**{: .label .label-lecture } DataFrames: Accessing, Sorting, and Querying":
+          "**LEC 4**{: .label .label-lecture } DataFrames: Accessing, Sorting, and Querying - **IN PERSON**":
             "[BPD 9-10](https://notes.dsc10.com/02-data_sets/accessing.html)"
           
           "**DIS 2**{: .label .label-disc } Python Basics, Arrays, and DataFrames":
