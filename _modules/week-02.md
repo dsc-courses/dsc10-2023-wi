@@ -11,7 +11,7 @@
           "**LEC 4**{: .label .label-lecture } [DataFrames: Accessing, Sorting, and Querying](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=lectures/lec04/lec04.ipynb) - **IN PERSON** [✏️](resources/lectures/lec04/lec04.html)" :
             "[BPD 9-10](https://notes.dsc10.com/02-data_sets/accessing.html)"
           
-          "**DIS 2**{: .label .label-disc } [Python Basics, Arrays, and DataFrames](https://practice.dsc10.com/disc02/index.html)":
+          "**DIS 2**{: .label .label-disc } [Python Basics, Arrays, and DataFrames](https://practice.dsc10.com/disc02/index.html) - [Dasha 🎥](https://podcast.ucsd.edu/watch/wi23/dsc10_d00/50), [Dylan 🎥](https://podcast.ucsd.edu/watch/wi23/dsc10_a00/46) ":
                 
       - date: 2023-1-20
         events:
