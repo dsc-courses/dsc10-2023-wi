@@ -10,7 +10,7 @@
       - date: 2023-1-31
         events:
           
-          "**HW 2**{: .label .label-hw } DataFrames and Data Visualization":
+          "**HW 2**{: .label .label-hw } [DataFrames and Data Visualization](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=homeworks/hw02/hw02.ipynb)":
       - date: 2023-2-1
         events:
           "**LEC 10**{: .label .label-lecture } Conditional Statements and Iteration":
