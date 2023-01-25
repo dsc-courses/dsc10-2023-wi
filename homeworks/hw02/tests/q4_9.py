@@ -1,0 +1,10 @@
+test = {   'name': 'q4_9',
+    'points': None,
+    'suites': [   {   'cases': [   {'code': '>>> import numbers\n>>> isinstance(country, str) and isinstance(points, numbers.Number)\nTrue', 'hidden': False, 'locked': False},
+                                   {   'code': ">>> str.upper(country) in set(['UNITED STATES', 'SINGAPORE', 'CANADA', 'CHINA', 'VIETNAM']) # Check your spelling of the country!\nTrue",
+                                       'hidden': False,
+                                       'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}

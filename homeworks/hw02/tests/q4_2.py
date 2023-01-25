@@ -1,0 +1,10 @@
+test = {   'name': 'q4_2',
+    'points': None,
+    'suites': [   {   'cases': [   {   'code': ">>> list(ramen.columns) == ['Brand', 'Variety', 'Style', 'Country', 'Stars'] # Check the column names and their order!\nTrue",
+                                       'hidden': False,
+                                       'locked': False},
+                                   {'code': ">>> 'USA' not in ramen.get('Country')\nTrue", 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
