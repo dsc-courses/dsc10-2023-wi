@@ -4,7 +4,7 @@
     days:
       - date: 2023-1-23
         events:
-          "**LEC 6**{: .label .label-lecture } [Data Visualization](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=lectures/lec06/lec06.ipynb) [✏️](resources/lectures/lec06/lec06.html)":
+          "**LEC 6**{: .label .label-lecture } [Data Visualization](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=lectures/lec06/lec06.ipynb) [✏️](resources/lectures/lec06/lec06.html) [Watch 🎥](https://podcast.ucsd.edu/watch/wi23/dsc10_b00/6/kaltura)":
             "[CIT 7, 7.1](https://inferentialthinking.com/chapters/07/Visualization.html)"
 
       - date: 2023-1-24
