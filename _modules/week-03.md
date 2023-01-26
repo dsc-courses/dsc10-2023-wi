@@ -16,7 +16,7 @@
         events:
           "**LEC 7**{: .label .label-lecture } [Histograms and Overlaid Plots](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=lectures/lec07/lec07.ipynb) [✏️](resources/lectures/lec07/lec07.html)":
             "[CIT 7.2-7.3](https://inferentialthinking.com/chapters/07/2/Visualizing_Numerical_Distributions.html)"
-          "**DIS 3**{: .label .label-disc } [Querying, Grouping, and Plotting](https://practice.dsc10.com/disc03/index.html)":
+          "**DIS 3**{: .label .label-disc } [Querying, Grouping, and Plotting](https://practice.dsc10.com/disc03/index.html) - [Dasha 🎥](https://podcast.ucsd.edu/watch/wi23/dsc10_d00/51), [Dylan 🎥](https://podcast.ucsd.edu/watch/wi23/dsc10_a00/47) ":
                 
       - date: 2023-1-27
         events:
