@@ -26,5 +26,5 @@
       - date: 2023-2-4
         events:
           
-          "**Lab 3**{: .label .label-lab } DataFrames, Control Flow, and Probability":
+          "**Lab 3**{: .label .label-lab } [DataFrames, Control Flow, and Probability](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=labs/lab03/lab03.ipynb)":
 ---
