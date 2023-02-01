@@ -11,7 +11,8 @@
       - date: 2023-2-14
         events:
           
-          "**PROJ**{: .label .label-proj } Midterm Project":
+          "**PROJ**{: .label .label-proj } [Midterm Project](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=projects/midterm_project/midterm_project.ipynb)":
+          
       - date: 2023-2-15
         events:
           "**LEC 15**{: .label .label-lecture } Hypothesis Testing":
