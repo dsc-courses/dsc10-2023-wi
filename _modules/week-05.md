@@ -9,7 +9,6 @@
                 
       - date: 2023-2-7
         events:
-          
           "**HW 3**{: .label .label-hw } [DataFrames, Control Flow, and Probability](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=homeworks/hw03/hw03.ipynb)":
 
           "**SUR**{: .label .label-survey } [Mid-Quarter Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSf4dovlbdvoC8MNUSfZOD5dXnglG01zpeskWcY4Dyny04L4rg/viewform)":
