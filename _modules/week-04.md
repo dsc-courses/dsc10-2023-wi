@@ -13,7 +13,7 @@
           "**HW 2**{: .label .label-hw } [DataFrames and Data Visualization](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=homeworks/hw02/hw02.ipynb)":
       - date: 2023-2-1
         events:
-          "**LEC 10**{: .label .label-lecture } [Conditional Statements and Iteration](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=lectures/lec10/lec10.ipynb) [✏️](resources/lectures/lec10/lec10.html)":
+          "**LEC 10**{: .label .label-lecture } [Conditional Statements and Iteration](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=lectures/lec10/lec10.ipynb) [✏️](resources/lectures/lec10/lec10.html) [Watch 🎥](https://podcast.ucsd.edu/watch/wi23/dsc10_a00/10/kaltura)":
             "[CIT 9.1-9.2](https://inferentialthinking.com/chapters/09/Randomness.html)"
           
           "**DIS 4**{: .label .label-disc } [Functions, Subgroups, Merge, and Control Flow](https://practice.dsc10.com/disc04/index.html)":
