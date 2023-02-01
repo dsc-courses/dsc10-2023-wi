@@ -14572,7 +14572,7 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
     </script>
     <!-- End of mathjax configuration --></head>
 <body class="jp-Notebook" data-jp-theme-light="true" data-jp-theme-name="JupyterLab Light">
-<div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
+<div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
@@ -14587,10 +14587,8 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 <span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="nn">pd</span>
 <span class="kn">from</span> <span class="nn">matplotlib_inline.backend_inline</span> <span class="kn">import</span> <span class="n">set_matplotlib_formats</span>
 <span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span>
-<span class="o">%</span><span class="k">reload_ext</span> pandas_tutor
-<span class="o">%</span><span class="k">set_pandas_tutor_options</span> {&#39;projectorMode&#39;: True}
 <span class="n">set_matplotlib_formats</span><span class="p">(</span><span class="s2">&quot;svg&quot;</span><span class="p">)</span>
-<span class="n">plt</span><span class="o">.</span><span class="n">style</span><span class="o">.</span><span class="n">use</span><span class="p">(</span><span class="s1">&#39;fivethirtyeight&#39;</span><span class="p">)</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">style</span><span class="o">.</span><span class="n">use</span><span class="p">(</span><span class="s1">&#39;ggplot&#39;</span><span class="p">)</span>
 
 <span class="n">np</span><span class="o">.</span><span class="n">set_printoptions</span><span class="p">(</span><span class="n">threshold</span><span class="o">=</span><span class="mi">20</span><span class="p">,</span> <span class="n">precision</span><span class="o">=</span><span class="mi">2</span><span class="p">,</span> <span class="n">suppress</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
 <span class="n">pd</span><span class="o">.</span><span class="n">set_option</span><span class="p">(</span><span class="s2">&quot;display.max_rows&quot;</span><span class="p">,</span> <span class="mi">7</span><span class="p">)</span>
@@ -14601,43 +14599,6 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
      </div>
 </div>
 </div>
-</div>
-
-<div class="jp-Cell-outputWrapper">
-<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
-</div>
-
-
-<div class="jp-OutputArea jp-Cell-outputArea">
-
-<div class="jp-OutputArea-child">
-
-    
-    <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
-
-
-
-<div class="jp-RenderedHTMLCommon jp-RenderedHTML jp-OutputArea-output " data-mime-type="text/html">
-
-<script type="text/javascript" src="https://pandastutor.com/build/wsembed.bundle.2022-07-07-release.js"></script>
-<script>
-console.log("initializing pandas_tutor js")
-
-function drawWsv(viz_id, spec, options) {
-  if (typeof createWsvFromPandasTrace === 'undefined') {
-    setTimeout(() => drawWsv(viz_id, spec, options), 2000) // retry in 2 seconds
-    return
-  }
-  createWsvFromPandasTrace(viz_id, spec, options)
-}
-</script>
-
-</div>
-
-</div>
-
-</div>
-
 </div>
 
 </div>
@@ -14659,17 +14620,15 @@ function drawWsv(viz_id, spec, options) {
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <h3 id="Announcements">Announcements<a class="anchor-link" href="#Announcements">&#182;</a></h3><ul>
-<li>Homework 3 is due <strong>tomorrow at 11:59PM</strong>.</li>
-<li>Lab 4 is due on <strong>Saturday, 10/22 at 11:59PM</strong>.</li>
-<li>The Midterm Project will be released Wednesday!<ul>
-<li>Partners are not required, but strongly encouraged.</li>
-<li>Your partner doesn't have to be from your lecture section.</li>
-<li>Before or after discussion <strong>today</strong>, we'll host a mixer to help you find a partner! See <a href="https://edstem.org/us/courses/29053/discussion/1970202">this</a> post on EdStem for details.</li>
-<li>You must use the <a href="https://dsc10.com/pair-programming/">pair programming</a> model when working with a partner.</li>
+<li>Lab 3 is due <strong>Saturday 2/4 at 11:59PM</strong>.</li>
+<li>Homework 3 is due <strong>Tuesday 2/7 at 11:59PM</strong>.</li>
+<li>The Midterm Project (Restaurants 🍔🍟) is released and due <strong>Tuesday 2/14 at 11:59PM</strong>.<ul>
+<li>Working with a partner is recommended but not required. </li>
+<li>Partners must follow <a href="https://dsc10.com/project-partners/">these partner guidelines</a>. In particular, you must both contribute to all parts of the project and not split up the problems.</li>
+<li>Your partner can be from any lecture section.</li>
+<li>Course tutors will host a mixer <strong>today from 1:30 to 2:15PM</strong> in the outdoor courtyard behind Center Hall. Come before or after discussion section to connect with other students looking for a project partner. Here's a <a href="https://edstem.org/us/courses/33310/discussion/2489840">menu of questions</a> to start the conversation. </li>
 </ul>
 </li>
-<li>If you have a <strong>conflict</strong> with your assigned discussion, email TA Dasha (dveraksa@ucsd.edu) to request to attend another.</li>
-<li>Look at the <a href="https://www.gradescope.com/courses/443300/assignments/2326925/">Grade Report</a> on Gradescope to see your scores on all assignments, discussion attendance, and number of used slip days so far.</li>
 </ul>
 
 </div>
@@ -16376,16 +16335,7 @@ Before you graduate, you need to take 57 more units.
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="k">def</span> <span class="nf">grade_converter</span><span class="p">(</span><span class="n">grade</span><span class="p">):</span>
-    <span class="k">if</span> <span class="n">grade</span> <span class="o">&gt;=</span> <span class="mi">90</span><span class="p">:</span>
-        <span class="k">return</span> <span class="s1">&#39;A&#39;</span>
-    <span class="k">elif</span> <span class="n">grade</span> <span class="o">&gt;=</span> <span class="mi">80</span><span class="p">:</span>
-        <span class="k">return</span> <span class="s1">&#39;B&#39;</span>
-    <span class="k">elif</span> <span class="n">grade</span> <span class="o">&gt;=</span> <span class="mi">70</span><span class="p">:</span>
-        <span class="k">return</span> <span class="s1">&#39;C&#39;</span>
-    <span class="k">elif</span> <span class="n">grade</span> <span class="o">&gt;=</span> <span class="mi">60</span><span class="p">:</span>
-        <span class="k">return</span> <span class="s1">&#39;D&#39;</span>
-    <span class="k">else</span><span class="p">:</span>
-        <span class="k">return</span> <span class="s1">&#39;F&#39;</span>
+    <span class="o">...</span>
 </pre></div>
 
      </div>
@@ -16393,7 +16343,7 @@ Before you graduate, you need to take 57 more units.
 </div>
 </div>
 
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
@@ -16409,32 +16359,7 @@ Before you graduate, you need to take 57 more units.
 </div>
 </div>
 
-<div class="jp-Cell-outputWrapper">
-<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
-</div>
-
-
-<div class="jp-OutputArea jp-Cell-outputArea">
-
-<div class="jp-OutputArea-child">
-
-    
-    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[37]:</div>
-
-
-
-
-<div class="jp-RenderedText jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/plain">
-<pre>&#39;B&#39;</pre>
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
@@ -16448,31 +16373,6 @@ Before you graduate, you need to take 57 more units.
      </div>
 </div>
 </div>
-</div>
-
-<div class="jp-Cell-outputWrapper">
-<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
-</div>
-
-
-<div class="jp-OutputArea jp-Cell-outputArea">
-
-<div class="jp-OutputArea-child">
-
-    
-    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[38]:</div>
-
-
-
-
-<div class="jp-RenderedText jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/plain">
-<pre>&#39;D&#39;</pre>
-</div>
-
-</div>
-
-</div>
-
 </div>
 
 </div>
@@ -16514,22 +16414,6 @@ Before you graduate, you need to take 57 more units.
         <span class="k">return</span> <span class="s1">&#39;triton&#39;</span>
     <span class="k">else</span><span class="p">:</span>
         <span class="k">return</span> <span class="s1">&#39;bruin&#39;</span>
-</pre></div>
-
-     </div>
-</div>
-</div>
-</div>
-
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
-<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
-     <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span> 
 </pre></div>
 
      </div>
@@ -17160,7 +17044,7 @@ I exercised and I felt exhausted 😩
 <li>It returns a new array. It does not modify the input array. </li>
 <li>We typically use it like this to extend an array by one element:
   <code>name_of_array = np.append(name_of_array, element_to_add)</code></li>
-<li>Remember to <strong>store the result</strong>!</li>
+<li>⚠️ <strong>Remember to store the result!</strong></li>
 </ul>
 
 </div>
@@ -17412,7 +17296,7 @@ I exercised and I felt exhausted 😩
 
 
 <div class="jp-RenderedText jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/plain">
-<pre>5</pre>
+<pre>3</pre>
 </div>
 
 </div>
@@ -17507,7 +17391,7 @@ I exercised and I felt exhausted 😩
 
 
 <div class="jp-RenderedText jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/plain">
-<pre>array([5., 4., 4., ..., 6., 5., 5.])</pre>
+<pre>array([3., 4., 3., ..., 7., 5., 4.])</pre>
 </div>
 
 </div>
@@ -17594,12 +17478,12 @@ I exercised and I felt exhausted 😩
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="528.56505pt" height="332.703825pt" viewBox="0 0 528.56505 332.703825" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="421.46975pt" height="314.131875pt" viewBox="0 0 421.46975 314.131875" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2023-01-31T21:52:03.834575</dc:date>
+    <dc:date>2023-01-31T22:23:05.888248</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -17614,33 +17498,42 @@ I exercised and I felt exhausted 😩
  </defs>
  <g id="figure_1">
   <g id="patch_1">
-   <path d="M 0 332.703825 
-L 528.56505 332.703825 
-L 528.56505 0 
+   <path d="M 0 314.131875 
+L 421.46975 314.131875 
+L 421.46975 0 
 L 0 0 
 z
-" style="fill: #f0f0f0"/>
+" style="fill: #ffffff"/>
   </g>
   <g id="axes_1">
    <g id="patch_2">
-    <path d="M 63.834525 308.45445 
-L 464.730525 308.45445 
-L 464.730525 28.51845 
-L 63.834525 28.51845 
+    <path d="M 52.079375 290.25375 
+L 409.199375 290.25375 
+L 409.199375 24.14175 
+L 52.079375 24.14175 
 z
-" style="fill: #f0f0f0"/>
+" style="fill: #e5e5e5"/>
    </g>
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
      <g id="line2d_1">
-      <path d="M 82.05707 308.45445 
-L 82.05707 28.51845 
-" clip-path="url(#p2de8a9c1f1)" style="fill: none; stroke: #cbcbcb"/>
+      <path d="M 68.312102 290.25375 
+L 68.312102 24.14175 
+" clip-path="url(#p75e3a6b313)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
-     <g id="line2d_2"/>
+     <g id="line2d_2">
+      <defs>
+       <path id="mc5b65a32f9" d="M 0 0 
+L 0 3.5 
+" style="stroke: #555555; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mc5b65a32f9" x="68.312102" y="290.25375" style="fill: #555555; stroke: #555555; stroke-width: 0.8"/>
+      </g>
+     </g>
      <g id="text_1">
       <!-- 0 -->
-      <g transform="translate(77.60332 322.592262)scale(0.14 -0.14)">
+      <g style="fill: #555555" transform="translate(65.130852 304.852187)scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-30" d="M 2034 4250 
 Q 1547 4250 1301 3770 
@@ -17670,14 +17563,18 @@ z
     </g>
     <g id="xtick_2">
      <g id="line2d_3">
-      <path d="M 148.320872 308.45445 
-L 148.320872 28.51845 
-" clip-path="url(#p2de8a9c1f1)" style="fill: none; stroke: #cbcbcb"/>
+      <path d="M 127.340201 290.25375 
+L 127.340201 24.14175 
+" clip-path="url(#p75e3a6b313)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
-     <g id="line2d_4"/>
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#mc5b65a32f9" x="127.340201" y="290.25375" style="fill: #555555; stroke: #555555; stroke-width: 0.8"/>
+      </g>
+     </g>
      <g id="text_2">
       <!-- 2 -->
-      <g transform="translate(143.867122 322.592262)scale(0.14 -0.14)">
+      <g style="fill: #555555" transform="translate(124.158951 304.852187)scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-32" d="M 1228 531 
 L 3431 531 
@@ -17710,14 +17607,18 @@ z
     </g>
     <g id="xtick_3">
      <g id="line2d_5">
-      <path d="M 214.584674 308.45445 
-L 214.584674 28.51845 
-" clip-path="url(#p2de8a9c1f1)" style="fill: none; stroke: #cbcbcb"/>
+      <path d="M 186.368301 290.25375 
+L 186.368301 24.14175 
+" clip-path="url(#p75e3a6b313)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
-     <g id="line2d_6"/>
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#mc5b65a32f9" x="186.368301" y="290.25375" style="fill: #555555; stroke: #555555; stroke-width: 0.8"/>
+      </g>
+     </g>
      <g id="text_3">
       <!-- 4 -->
-      <g transform="translate(210.130924 322.592262)scale(0.14 -0.14)">
+      <g style="fill: #555555" transform="translate(183.187051 304.852187)scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-34" d="M 2419 4116 
 L 825 1625 
@@ -17745,14 +17646,18 @@ z
     </g>
     <g id="xtick_4">
      <g id="line2d_7">
-      <path d="M 280.848475 308.45445 
-L 280.848475 28.51845 
-" clip-path="url(#p2de8a9c1f1)" style="fill: none; stroke: #cbcbcb"/>
+      <path d="M 245.3964 290.25375 
+L 245.3964 24.14175 
+" clip-path="url(#p75e3a6b313)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
-     <g id="line2d_8"/>
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#mc5b65a32f9" x="245.3964" y="290.25375" style="fill: #555555; stroke: #555555; stroke-width: 0.8"/>
+      </g>
+     </g>
      <g id="text_4">
       <!-- 6 -->
-      <g transform="translate(276.394725 322.592262)scale(0.14 -0.14)">
+      <g style="fill: #555555" transform="translate(242.21515 304.852187)scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-36" d="M 2113 2584 
 Q 1688 2584 1439 2293 
@@ -17791,14 +17696,18 @@ z
     </g>
     <g id="xtick_5">
      <g id="line2d_9">
-      <path d="M 347.112277 308.45445 
-L 347.112277 28.51845 
-" clip-path="url(#p2de8a9c1f1)" style="fill: none; stroke: #cbcbcb"/>
+      <path d="M 304.424499 290.25375 
+L 304.424499 24.14175 
+" clip-path="url(#p75e3a6b313)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
-     <g id="line2d_10"/>
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#mc5b65a32f9" x="304.424499" y="290.25375" style="fill: #555555; stroke: #555555; stroke-width: 0.8"/>
+      </g>
+     </g>
      <g id="text_5">
       <!-- 8 -->
-      <g transform="translate(342.658527 322.592262)scale(0.14 -0.14)">
+      <g style="fill: #555555" transform="translate(301.243249 304.852187)scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-38" d="M 2034 2216 
 Q 1584 2216 1326 1975 
@@ -17846,14 +17755,18 @@ z
     </g>
     <g id="xtick_6">
      <g id="line2d_11">
-      <path d="M 413.376079 308.45445 
-L 413.376079 28.51845 
-" clip-path="url(#p2de8a9c1f1)" style="fill: none; stroke: #cbcbcb"/>
+      <path d="M 363.452598 290.25375 
+L 363.452598 24.14175 
+" clip-path="url(#p75e3a6b313)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
-     <g id="line2d_12"/>
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#mc5b65a32f9" x="363.452598" y="290.25375" style="fill: #555555; stroke: #555555; stroke-width: 0.8"/>
+      </g>
+     </g>
      <g id="text_6">
       <!-- 10 -->
-      <g transform="translate(404.468579 322.592262)scale(0.14 -0.14)">
+      <g style="fill: #555555" transform="translate(357.090098 304.852187)scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-31" d="M 794 531 
 L 1825 531 
@@ -17879,14 +17792,23 @@ z
    <g id="matplotlib.axis_2">
     <g id="ytick_1">
      <g id="line2d_13">
-      <path d="M 63.834525 308.45445 
-L 464.730525 308.45445 
-" clip-path="url(#p2de8a9c1f1)" style="fill: none; stroke: #cbcbcb"/>
+      <path d="M 52.079375 290.25375 
+L 409.199375 290.25375 
+" clip-path="url(#p75e3a6b313)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
-     <g id="line2d_14"/>
+     <g id="line2d_14">
+      <defs>
+       <path id="m2bf98ddcec" d="M 0 0 
+L -3.5 0 
+" style="stroke: #555555; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m2bf98ddcec" x="52.079375" y="290.25375" style="fill: #555555; stroke: #555555; stroke-width: 0.8"/>
+      </g>
+     </g>
      <g id="text_7">
       <!-- 0.00 -->
-      <g transform="translate(29.16265 313.773356)scale(0.14 -0.14)">
+      <g style="fill: #555555" transform="translate(22.81375 294.052969)scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-2e" d="M 684 794 
 L 1344 794 
@@ -17905,14 +17827,18 @@ z
     </g>
     <g id="ytick_2">
      <g id="line2d_15">
-      <path d="M 63.834525 255.005029 
-L 464.730525 255.005029 
-" clip-path="url(#p2de8a9c1f1)" style="fill: none; stroke: #cbcbcb"/>
+      <path d="M 52.079375 237.933354 
+L 409.199375 237.933354 
+" clip-path="url(#p75e3a6b313)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
-     <g id="line2d_16"/>
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m2bf98ddcec" x="52.079375" y="237.933354" style="fill: #555555; stroke: #555555; stroke-width: 0.8"/>
+      </g>
+     </g>
      <g id="text_8">
       <!-- 0.05 -->
-      <g transform="translate(29.16265 260.323935)scale(0.14 -0.14)">
+      <g style="fill: #555555" transform="translate(22.81375 241.732572)scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-35" d="M 691 4666 
 L 3169 4666 
@@ -17949,14 +17875,18 @@ z
     </g>
     <g id="ytick_3">
      <g id="line2d_17">
-      <path d="M 63.834525 201.555607 
-L 464.730525 201.555607 
-" clip-path="url(#p2de8a9c1f1)" style="fill: none; stroke: #cbcbcb"/>
+      <path d="M 52.079375 185.612957 
+L 409.199375 185.612957 
+" clip-path="url(#p75e3a6b313)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
-     <g id="line2d_18"/>
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#m2bf98ddcec" x="52.079375" y="185.612957" style="fill: #555555; stroke: #555555; stroke-width: 0.8"/>
+      </g>
+     </g>
      <g id="text_9">
       <!-- 0.10 -->
-      <g transform="translate(29.16265 206.874513)scale(0.14 -0.14)">
+      <g style="fill: #555555" transform="translate(22.81375 189.412176)scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-30"/>
        <use xlink:href="#DejaVuSans-2e" x="63.623047"/>
        <use xlink:href="#DejaVuSans-31" x="95.410156"/>
@@ -17966,14 +17896,18 @@ L 464.730525 201.555607
     </g>
     <g id="ytick_4">
      <g id="line2d_19">
-      <path d="M 63.834525 148.106186 
-L 464.730525 148.106186 
-" clip-path="url(#p2de8a9c1f1)" style="fill: none; stroke: #cbcbcb"/>
+      <path d="M 52.079375 133.292561 
+L 409.199375 133.292561 
+" clip-path="url(#p75e3a6b313)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
-     <g id="line2d_20"/>
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#m2bf98ddcec" x="52.079375" y="133.292561" style="fill: #555555; stroke: #555555; stroke-width: 0.8"/>
+      </g>
+     </g>
      <g id="text_10">
       <!-- 0.15 -->
-      <g transform="translate(29.16265 153.425092)scale(0.14 -0.14)">
+      <g style="fill: #555555" transform="translate(22.81375 137.09178)scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-30"/>
        <use xlink:href="#DejaVuSans-2e" x="63.623047"/>
        <use xlink:href="#DejaVuSans-31" x="95.410156"/>
@@ -17983,14 +17917,18 @@ L 464.730525 148.106186
     </g>
     <g id="ytick_5">
      <g id="line2d_21">
-      <path d="M 63.834525 94.656764 
-L 464.730525 94.656764 
-" clip-path="url(#p2de8a9c1f1)" style="fill: none; stroke: #cbcbcb"/>
+      <path d="M 52.079375 80.972165 
+L 409.199375 80.972165 
+" clip-path="url(#p75e3a6b313)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
-     <g id="line2d_22"/>
+     <g id="line2d_22">
+      <g>
+       <use xlink:href="#m2bf98ddcec" x="52.079375" y="80.972165" style="fill: #555555; stroke: #555555; stroke-width: 0.8"/>
+      </g>
+     </g>
      <g id="text_11">
       <!-- 0.20 -->
-      <g transform="translate(29.16265 99.97567)scale(0.14 -0.14)">
+      <g style="fill: #555555" transform="translate(22.81375 84.771383)scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-30"/>
        <use xlink:href="#DejaVuSans-2e" x="63.623047"/>
        <use xlink:href="#DejaVuSans-32" x="95.410156"/>
@@ -18000,14 +17938,18 @@ L 464.730525 94.656764
     </g>
     <g id="ytick_6">
      <g id="line2d_23">
-      <path d="M 63.834525 41.207343 
-L 464.730525 41.207343 
-" clip-path="url(#p2de8a9c1f1)" style="fill: none; stroke: #cbcbcb"/>
+      <path d="M 52.079375 28.651768 
+L 409.199375 28.651768 
+" clip-path="url(#p75e3a6b313)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
      </g>
-     <g id="line2d_24"/>
+     <g id="line2d_24">
+      <g>
+       <use xlink:href="#m2bf98ddcec" x="52.079375" y="28.651768" style="fill: #555555; stroke: #555555; stroke-width: 0.8"/>
+      </g>
+     </g>
      <g id="text_12">
       <!-- 0.25 -->
-      <g transform="translate(29.16265 46.526249)scale(0.14 -0.14)">
+      <g style="fill: #555555" transform="translate(22.81375 32.450987)scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-30"/>
        <use xlink:href="#DejaVuSans-2e" x="63.623047"/>
        <use xlink:href="#DejaVuSans-32" x="95.410156"/>
@@ -18017,7 +17959,7 @@ L 464.730525 41.207343
     </g>
     <g id="text_13">
      <!-- Frequency -->
-     <g transform="translate(21.668775 211.880325)rotate(-90)scale(0.168 -0.168)">
+     <g style="fill: #555555" transform="translate(16.318125 188.193375)rotate(-90)scale(0.12 -0.12)">
       <defs>
        <path id="DejaVuSans-46" d="M 628 4666 
 L 3309 4666 
@@ -18193,116 +18135,116 @@ z
     </g>
    </g>
    <g id="patch_3">
-    <path d="M 82.05707 308.45445 
-L 115.188971 308.45445 
-L 115.188971 307.706158 
-L 82.05707 307.706158 
+    <path d="M 68.312102 290.25375 
+L 97.826152 290.25375 
+L 97.826152 289.416624 
+L 68.312102 289.416624 
 z
-" clip-path="url(#p2de8a9c1f1)" style="fill: #008fd5; stroke: #ffffff; stroke-width: 0.5; stroke-linejoin: miter"/>
+" clip-path="url(#p75e3a6b313)" style="fill: #e24a33; stroke: #ffffff; stroke-width: 0.5; stroke-linejoin: miter"/>
    </g>
    <g id="patch_4">
-    <path d="M 115.188971 308.45445 
-L 148.320872 308.45445 
-L 148.320872 297.978363 
-L 115.188971 297.978363 
+    <path d="M 97.826152 290.25375 
+L 127.340201 290.25375 
+L 127.340201 280.208234 
+L 97.826152 280.208234 
 z
-" clip-path="url(#p2de8a9c1f1)" style="fill: #008fd5; stroke: #ffffff; stroke-width: 0.5; stroke-linejoin: miter"/>
+" clip-path="url(#p75e3a6b313)" style="fill: #e24a33; stroke: #ffffff; stroke-width: 0.5; stroke-linejoin: miter"/>
    </g>
    <g id="patch_5">
-    <path d="M 148.320872 308.45445 
-L 181.452773 308.45445 
-L 181.452773 259.067185 
-L 148.320872 259.067185 
+    <path d="M 127.340201 290.25375 
+L 156.854251 290.25375 
+L 156.854251 243.688597 
+L 127.340201 243.688597 
 z
-" clip-path="url(#p2de8a9c1f1)" style="fill: #008fd5; stroke: #ffffff; stroke-width: 0.5; stroke-linejoin: miter"/>
+" clip-path="url(#p75e3a6b313)" style="fill: #e24a33; stroke: #ffffff; stroke-width: 0.5; stroke-linejoin: miter"/>
    </g>
    <g id="patch_6">
-    <path d="M 181.452773 308.45445 
-L 214.584674 308.45445 
-L 214.584674 193.85889 
-L 181.452773 193.85889 
+    <path d="M 156.854251 290.25375 
+L 186.368301 290.25375 
+L 186.368301 170.12612 
+L 156.854251 170.12612 
 z
-" clip-path="url(#p2de8a9c1f1)" style="fill: #008fd5; stroke: #ffffff; stroke-width: 0.5; stroke-linejoin: miter"/>
+" clip-path="url(#p75e3a6b313)" style="fill: #e24a33; stroke: #ffffff; stroke-width: 0.5; stroke-linejoin: miter"/>
    </g>
    <g id="patch_7">
-    <path d="M 214.584674 308.45445 
-L 247.716575 308.45445 
-L 247.716575 87.494542 
-L 214.584674 87.494542 
+    <path d="M 186.368301 290.25375 
+L 215.88235 290.25375 
+L 215.88235 66.113172 
+L 186.368301 66.113172 
 z
-" clip-path="url(#p2de8a9c1f1)" style="fill: #008fd5; stroke: #ffffff; stroke-width: 0.5; stroke-linejoin: miter"/>
+" clip-path="url(#p75e3a6b313)" style="fill: #e24a33; stroke: #ffffff; stroke-width: 0.5; stroke-linejoin: miter"/>
    </g>
    <g id="patch_8">
-    <path d="M 247.716575 308.45445 
-L 280.848475 308.45445 
-L 280.848475 41.848736 
-L 247.716575 41.848736 
+    <path d="M 215.88235 290.25375 
+L 245.3964 290.25375 
+L 245.3964 36.81375 
+L 215.88235 36.81375 
 z
-" clip-path="url(#p2de8a9c1f1)" style="fill: #008fd5; stroke: #ffffff; stroke-width: 0.5; stroke-linejoin: miter"/>
+" clip-path="url(#p75e3a6b313)" style="fill: #e24a33; stroke: #ffffff; stroke-width: 0.5; stroke-linejoin: miter"/>
    </g>
    <g id="patch_9">
-    <path d="M 280.848475 308.45445 
-L 313.980376 308.45445 
-L 313.980376 94.336068 
-L 280.848475 94.336068 
+    <path d="M 245.3964 290.25375 
+L 274.910449 290.25375 
+L 274.910449 75.321562 
+L 245.3964 75.321562 
 z
-" clip-path="url(#p2de8a9c1f1)" style="fill: #008fd5; stroke: #ffffff; stroke-width: 0.5; stroke-linejoin: miter"/>
+" clip-path="url(#p75e3a6b313)" style="fill: #e24a33; stroke: #ffffff; stroke-width: 0.5; stroke-linejoin: miter"/>
    </g>
    <g id="patch_10">
-    <path d="M 313.980376 308.45445 
-L 347.112277 308.45445 
-L 347.112277 176.541278 
-L 313.980376 176.541278 
+    <path d="M 274.910449 290.25375 
+L 304.424499 290.25375 
+L 304.424499 168.76579 
+L 274.910449 168.76579 
 z
-" clip-path="url(#p2de8a9c1f1)" style="fill: #008fd5; stroke: #ffffff; stroke-width: 0.5; stroke-linejoin: miter"/>
+" clip-path="url(#p75e3a6b313)" style="fill: #e24a33; stroke: #ffffff; stroke-width: 0.5; stroke-linejoin: miter"/>
    </g>
    <g id="patch_11">
-    <path d="M 347.112277 308.45445 
-L 380.244178 308.45445 
-L 380.244178 259.708578 
-L 347.112277 259.708578 
+    <path d="M 304.424499 290.25375 
+L 333.938549 290.25375 
+L 333.938549 248.083511 
+L 304.424499 248.083511 
 z
-" clip-path="url(#p2de8a9c1f1)" style="fill: #008fd5; stroke: #ffffff; stroke-width: 0.5; stroke-linejoin: miter"/>
+" clip-path="url(#p75e3a6b313)" style="fill: #e24a33; stroke: #ffffff; stroke-width: 0.5; stroke-linejoin: miter"/>
    </g>
    <g id="patch_12">
-    <path d="M 380.244178 308.45445 
-L 413.376079 308.45445 
-L 413.376079 297.657667 
-L 380.244178 297.657667 
+    <path d="M 333.938549 290.25375 
+L 363.452598 290.25375 
+L 363.452598 279.057185 
+L 333.938549 279.057185 
 z
-" clip-path="url(#p2de8a9c1f1)" style="fill: #008fd5; stroke: #ffffff; stroke-width: 0.5; stroke-linejoin: miter"/>
+" clip-path="url(#p75e3a6b313)" style="fill: #e24a33; stroke: #ffffff; stroke-width: 0.5; stroke-linejoin: miter"/>
    </g>
    <g id="patch_13">
-    <path d="M 413.376079 308.45445 
-L 446.50798 308.45445 
-L 446.50798 307.813057 
-L 413.376079 307.813057 
+    <path d="M 363.452598 290.25375 
+L 392.966648 290.25375 
+L 392.966648 288.788779 
+L 363.452598 288.788779 
 z
-" clip-path="url(#p2de8a9c1f1)" style="fill: #008fd5; stroke: #ffffff; stroke-width: 0.5; stroke-linejoin: miter"/>
+" clip-path="url(#p75e3a6b313)" style="fill: #e24a33; stroke: #ffffff; stroke-width: 0.5; stroke-linejoin: miter"/>
    </g>
    <g id="patch_14">
-    <path d="M 63.834525 308.45445 
-L 63.834525 28.51845 
-" style="fill: none; stroke: #f0f0f0; stroke-width: 3; stroke-linejoin: miter; stroke-linecap: square"/>
+    <path d="M 52.079375 290.25375 
+L 52.079375 24.14175 
+" style="fill: none; stroke: #ffffff; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="patch_15">
-    <path d="M 464.730525 308.45445 
-L 464.730525 28.51845 
-" style="fill: none; stroke: #f0f0f0; stroke-width: 3; stroke-linejoin: miter; stroke-linecap: square"/>
+    <path d="M 409.199375 290.25375 
+L 409.199375 24.14175 
+" style="fill: none; stroke: #ffffff; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="patch_16">
-    <path d="M 63.834525 308.45445 
-L 464.730525 308.45445 
-" style="fill: none; stroke: #f0f0f0; stroke-width: 3; stroke-linejoin: miter; stroke-linecap: square"/>
+    <path d="M 52.079375 290.25375 
+L 409.199375 290.25375 
+" style="fill: none; stroke: #ffffff; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="patch_17">
-    <path d="M 63.834525 28.51845 
-L 464.730525 28.51845 
-" style="fill: none; stroke: #f0f0f0; stroke-width: 3; stroke-linejoin: miter; stroke-linecap: square"/>
+    <path d="M 52.079375 24.14175 
+L 409.199375 24.14175 
+" style="fill: none; stroke: #ffffff; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="text_14">
     <!-- Distribution of the number of heads in 10 coin flips -->
-    <g transform="translate(7.2 22.51845)scale(0.2016 -0.2016)">
+    <g transform="translate(47.009 18.14175)scale(0.144 -0.144)">
      <defs>
       <path id="DejaVuSans-44" d="M 1259 4147 
 L 1259 519 
@@ -18656,8 +18598,8 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p2de8a9c1f1">
-   <rect x="63.834525" y="28.51845" width="400.896" height="279.936"/>
+  <clipPath id="p75e3a6b313">
+   <rect x="52.079375" y="24.14175" width="357.12" height="266.112"/>
   </clipPath>
  </defs>
 </svg>
@@ -18853,16 +18795,13 @@ O
     <span class="n">number</span> <span class="o">=</span> <span class="mi">0</span>
     
     <span class="c1"># For each of the 5 vowels:</span>
-    <span class="k">for</span> <span class="n">vowel</span> <span class="ow">in</span> <span class="s1">&#39;aeiou&#39;</span><span class="p">:</span>
        
         <span class="c1"># Count the number of occurrences of this vowel in s.</span>
-        <span class="n">count</span> <span class="o">=</span> <span class="n">s</span><span class="o">.</span><span class="n">count</span><span class="p">(</span><span class="n">vowel</span><span class="p">)</span>
         
         <span class="c1"># Add this count to the variable number.</span>
-        <span class="n">number</span> <span class="o">=</span> <span class="n">number</span> <span class="o">+</span> <span class="n">count</span>
     
     <span class="c1"># Once we&#39;ve gotten through all 5 vowels, return the answer.</span>
-    <span class="k">return</span> <span class="n">number</span>
+    
 </pre></div>
 
      </div>
@@ -18870,7 +18809,7 @@ O
 </div>
 </div>
 
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
@@ -18886,32 +18825,7 @@ O
 </div>
 </div>
 
-<div class="jp-Cell-outputWrapper">
-<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
-</div>
-
-
-<div class="jp-OutputArea jp-Cell-outputArea">
-
-<div class="jp-OutputArea-child">
-
-    
-    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[64]:</div>
-
-
-
-
-<div class="jp-RenderedText jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/plain">
-<pre>3</pre>
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
@@ -18925,31 +18839,6 @@ O
      </div>
 </div>
 </div>
-</div>
-
-<div class="jp-Cell-outputWrapper">
-<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
-</div>
-
-
-<div class="jp-OutputArea jp-Cell-outputArea">
-
-<div class="jp-OutputArea-child">
-
-    
-    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[65]:</div>
-
-
-
-
-<div class="jp-RenderedText jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/plain">
-<pre>8</pre>
-</div>
-
-</div>
-
-</div>
-
 </div>
 
 </div>
