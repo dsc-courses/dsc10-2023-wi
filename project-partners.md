@@ -3,7 +3,7 @@ layout: page
 title: 👯 Project Partner Guidelines
 description: >-
     Information about working with a partner on course projects.
-nav_exclude: true
+nav_exclude: false
 ---
 
 # 👯 Project Partner Guidelines
