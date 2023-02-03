@@ -20,7 +20,7 @@
                 
       - date: 2023-2-3
         events:
-          "**LEC 11**{: .label .label-lecture } [Probability](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=lectures/lec11/lec11-blank.ipynb) [✏️](resources/lectures/lec11/lec11-blank.pdf)":
+          "**LEC 11**{: .label .label-lecture } [Probability](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=lectures/lec11/lec11-blank.ipynb) [Blank ✏️](resources/lectures/lec11/lec11-blank.pdf) [9am](resources/lectures/lec11/9am.pdf) [10am](resources/lectures/lec11/10am.pdf) [11am](resources/lectures/lec11/11am.pdf) [Watch 🎥](https://podcast.ucsd.edu/watch/wi23/dsc10_a00/11/kaltura)":
             "[CIT 9.5](https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html)"
                 
       - date: 2023-2-4
