@@ -14,6 +14,8 @@ nav_order: 1
 
 <!-- Lecture and discussion recordings can be found at [podcast.ucsd.edu](https://podcast.ucsd.edu). -->
 
+[Jump to the current week](#week-5){: .btn }
+
 {% for module in site.modules %}
 {{ module }}
 {% endfor %}
