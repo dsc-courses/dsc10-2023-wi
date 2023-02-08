@@ -17,7 +17,7 @@
         events:
           "**LEC 13**{: .label .label-lecture } Distributions and Sampling":
             "[CIT 10.0-10.4](https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html)"
-          "**DIS 5**{: .label .label-disc } Probability and Simulation":
+          "**DIS 5**{: .label .label-disc } [Probability and Simulation](https://practice.dsc10.com/disc05/index.html)":
                 
       - date: 2023-2-10
         events:
