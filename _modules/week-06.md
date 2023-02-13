@@ -4,7 +4,7 @@
     days:
       - date: 2023-2-13
         events:
-          "**LEC 14**{: .label .label-lecture } Models and Viewpoints":
+          "**LEC 14**{: .label .label-lecture } [Models and Viewpoints](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=lectures/lec14/lec14.ipynb) [✏️](resources/lectures/lec14/lec14.html)":
             "[CIT 11.0-11.1](https://inferentialthinking.com/chapters/11/Testing_Hypotheses.html)"
                 
           
