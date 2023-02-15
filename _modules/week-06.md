@@ -15,7 +15,7 @@
           
       - date: 2023-2-15
         events:
-          "**LEC 15**{: .label .label-lecture } [Hypothesis Testing](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=lectures/lec15/lec15.ipynb) [✏️](resources/lectures/lec15/lec15.html)":
+          "**LEC 15**{: .label .label-lecture } [Hypothesis Testing](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=lectures/lec15/lec15.ipynb) [✏️](resources/lectures/lec15/lec15.html) [Watch 🎥](https://podcast.ucsd.edu/watch/wi23/dsc10_d00/16/kaltura)":
             "[CIT 11.2-11.4](https://inferentialthinking.com/chapters/11/2/Multiple_Categories.html)"
           
           "**DIS 6**{: .label .label-disc } [Hypothesis Testing](https://practice.dsc10.com/disc06/index.html)":
