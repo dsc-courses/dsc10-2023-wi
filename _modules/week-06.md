@@ -22,7 +22,7 @@
                 
       - date: 2023-2-17
         events:
-          "**LEC 16**{: .label .label-lecture } TVD, Permutation Testing":
+          "**LEC 16**{: .label .label-lecture } [TVD, Permutation Testing](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=lectures/lec16/lec16.ipynb) [✏️](resources/lectures/lec16/lec16.html)":
             "[CIT 12.0-12.1](https://inferentialthinking.com/chapters/12/Comparing_Two_Samples.html)"
                 
       - date: 2023-2-18
