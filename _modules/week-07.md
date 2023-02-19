@@ -21,5 +21,5 @@
       - date: 2023-2-25
         events:
           
-          "**Lab 5**{: .label .label-lab } Resampling and the Bootstrap":
+          "**Lab 5**{: .label .label-lab } [Resampling and the Bootstrap](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=labs/lab05/lab05.ipynb)":
 ---
