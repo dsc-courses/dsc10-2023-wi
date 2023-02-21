@@ -18,7 +18,7 @@
           "**LEC 15**{: .label .label-lecture } Hypothesis Testing":
             "[CIT 11.2-11.4](https://inferentialthinking.com/chapters/11/2/Multiple_Categories.html)"
           
-          "**DIS 6**{: .label .label-disc } [Hypothesis Testing](https://practice.dsc10.com/disc06/index.html)":
+          "**DIS 6**{: .label .label-disc } [Hypothesis Testing](https://practice.dsc10.com/disc06/index.html) - [Dasha 🎥](https://podcast.ucsd.edu/watch/wi23/dsc10_d00/54), [Dylan 🎥](https://podcast.ucsd.edu/watch/wi23/dsc10_a00/50)":
                 
       - date: 2023-2-17
         events:

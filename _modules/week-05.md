@@ -17,7 +17,7 @@
         events:
           "**LEC 13**{: .label .label-lecture } [Distributions and Sampling](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=lectures/lec13/lec13.ipynb) [✏️](resources/lectures/lec13/lec13.html) [Watch 🎥](https://podcast.ucsd.edu/watch/wi23/dsc10_b00/13/kaltura)":
             "[CIT 10.0-10.4](https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html)"
-          "**DIS 5**{: .label .label-disc } [Probability and Simulation](https://practice.dsc10.com/disc05/index.html)":
+          "**DIS 5**{: .label .label-disc } [Probability and Simulation](https://practice.dsc10.com/disc05/index.html) - [Dylan 🎥](https://podcast.ucsd.edu/watch/wi23/dsc10_a00/49)":
                 
       - date: 2023-2-10
         events:
