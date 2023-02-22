@@ -1,0 +1,10 @@
+test = {   'name': 'q3_4',
+    'points': None,
+    'suites': [   {   'cases': [   {   'code': '>>> import numbers\n>>> isinstance(shelly_lower_bound, numbers.Real) and isinstance(shelly_upper_bound, numbers.Real)\nTrue',
+                                       'hidden': False,
+                                       'locked': False},
+                                   {'code': '>>> shelly_lower_bound <= shelly_upper_bound\nTrue', 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
