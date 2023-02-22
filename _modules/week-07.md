@@ -8,7 +8,7 @@
           "**HW 4**{: .label .label-hw } [Simulation, Sampling, and Hypothesis Testing](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=homeworks/hw04/hw04.ipynb)":
       - date: 2023-2-22
         events:
-          "**LEC 17**{: .label .label-lecture } Permutation Testing, Bootstrapping":
+          "**LEC 17**{: .label .label-lecture } [Permutation Testing, Bootstrapping](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=lectures/lec17/lec17.ipynb) [✏️](resources/lectures/lec17/lec17.html)":
             "[CIT 12.2-13.2](https://inferentialthinking.com/chapters/12/2/Causality.html)"
         
           "**DIS 7**{: .label .label-disc } Hypothesis Testing and Permutation Testing":
