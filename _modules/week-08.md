@@ -15,7 +15,7 @@
           "**DIS 8**{: .label .label-disc } Permutation Testing and Bootstrapping":
       - date: 2023-3-2
         events:
-          "**HW 5**{: .label .label-hw } Permutation Testing, Percentiles, and Bootstrapping":
+          "**HW 5**{: .label .label-hw } [Permutation Testing, Percentiles, and Bootstrapping](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=homeworks/hw05/hw05.ipynb)":
       
       - date: 2023-3-3
         events:
