@@ -11,7 +11,7 @@
           "**LEC 17**{: .label .label-lecture } [Permutation Testing, Bootstrapping](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=lectures/lec17/lec17.ipynb) [✏️](resources/lectures/lec17/lec17.html) [Watch 🎥](https://podcast.ucsd.edu/watch/wi23/dsc10_b00/18/kaltura)":
             "[CIT 12.2-13.2](https://inferentialthinking.com/chapters/12/2/Causality.html)"
         
-          "**DIS 7**{: .label .label-disc } [Hypothesis Testing and Permutation Testing](https://practice.dsc10.com/disc07/index.html)":
+          "**DIS 7**{: .label .label-disc } [Hypothesis Testing and Permutation Testing](https://practice.dsc10.com/disc07/index.html) - [Dasha 🎥](https://podcast.ucsd.edu/watch/wi23/dsc10_d00/55), [Dylan 🎥](https://podcast.ucsd.edu/watch/wi23/dsc10_a00/51)":
                 
       - date: 2023-2-24
         events:
