@@ -15,7 +15,7 @@
                 
       - date: 2023-2-24
         events:
-          "**LEC 18**{: .label .label-lecture } Bootstrapping, Percentiles, and Confidence Intervals":
+          "**LEC 18**{: .label .label-lecture } [Bootstrapping, Percentiles, and Confidence Intervals](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=lectures/lec18/lec18.ipynb) [✏️](resources/lectures/lec18/lec18.html)":
             "[CIT 13.1-13.3](https://inferentialthinking.com/chapters/13/1/Percentiles.html)"
 
       - date: 2023-2-25
