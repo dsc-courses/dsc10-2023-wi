@@ -4,7 +4,7 @@
     days:
       - date: 2023-2-27
         events:
-          "**LEC 19**{: .label .label-lecture } Confidence Intervals, Center and Spread":
+          "**LEC 19**{: .label .label-lecture } [Confidence Intervals, Center and Spread](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=lectures/lec19/lec19.ipynb) [✏️](resources/lectures/lec19/lec19.html)":
             "[CIT 13.4-14.2](https://inferentialthinking.com/chapters/13/4/Using_Confidence_Intervals.html)"
                 
       - date: 2023-3-1
