@@ -11,7 +11,7 @@
       - date: 2023-3-7
         events:
           
-          "**Lab 6**{: .label .label-lab } Center, Spread, and the Normal Distribution":
+          "**Lab 6**{: .label .label-lab } [Center, Spread, and the Normal Distribution](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=labs/lab06/lab06.ipynb)":
       - date: 2023-3-8
         events:
           "**LEC 23**{: .label .label-lecture } Correlation":
