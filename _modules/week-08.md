@@ -9,7 +9,7 @@
                 
       - date: 2023-3-1
         events:
-          "**LEC 20**{: .label .label-lecture } Spread, The Normal Distribution":
+          "**LEC 20**{: .label .label-lecture } [Spread, The Normal Distribution](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=lectures/lec20/lec20.ipynb) [✏️](resources/lectures/lec20/lec20.html)":
             "[CIT 14.3-14.4](https://inferentialthinking.com/chapters/14/3/SD_and_the_Normal_Curve.html)"
 
           "**DIS 8**{: .label .label-disc } [Permutation Testing and Bootstrapping](https://practice.dsc10.com/disc08/index.html)":
