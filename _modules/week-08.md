@@ -12,10 +12,10 @@
           "**LEC 20**{: .label .label-lecture } [Spread, The Normal Distribution](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=lectures/lec20/lec20.ipynb) [✏️](resources/lectures/lec20/lec20.html) [Watch 🎥](https://podcast.ucsd.edu/watch/wi23/dsc10_a00/21/kaltura)":
             "[CIT 14.3-14.4](https://inferentialthinking.com/chapters/14/3/SD_and_the_Normal_Curve.html)"
 
-          "**DIS 8**{: .label .label-disc } [Permutation Testing and Bootstrapping](https://practice.dsc10.com/disc08/index.html)":
+          "**DIS 8**{: .label .label-disc } [Permutation Testing and Bootstrapping](https://practice.dsc10.com/disc08/index.html) - [Dasha 🎥](https://podcast.ucsd.edu/watch/wi23/dsc10_d00/56), [Dylan 🎥](https://podcast.ucsd.edu/watch/wi23/dsc10_a00/52)":
       - date: 2023-3-2
         events:
-          "**HW 5**{: .label .label-hw } [Permutation Testing, Percentiles, and Bootstrapping](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=homeworks/hw05/hw05.ipynb) - [Dasha 🎥](https://podcast.ucsd.edu/watch/wi23/dsc10_d00/56), [Dylan 🎥](https://podcast.ucsd.edu/watch/wi23/dsc10_a00/52)":
+          "**HW 5**{: .label .label-hw } [Permutation Testing, Percentiles, and Bootstrapping](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=homeworks/hw05/hw05.ipynb)":
       
       - date: 2023-3-3
         events:
