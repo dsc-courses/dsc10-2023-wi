@@ -22,7 +22,7 @@
       - date: 2023-3-9
         events:
           
-          "**HW 6**{: .label .label-hw } Confidence Intervals, the Normal Distribution, and the Central Limit Theorem":
+          "**HW 6**{: .label .label-hw } [Confidence Intervals, the Normal Distribution, and the Central Limit Theorem](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=homeworks/hw06/hw06.ipynb)":
       - date: 2023-3-10
         events:
           "**LEC 24**{: .label .label-lecture } Regression and Least Squares":
