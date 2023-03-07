@@ -4,7 +4,7 @@
     days:
       - date: 2023-3-6
         events:
-          "**LEC 22**{: .label .label-lecture } [The Central Limit Theorem, Choosing Sample Sizes](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=lectures/lec22/lec22.ipynb) [✏️](resources/lectures/lec22/lec22.html)":
+          "**LEC 22**{: .label .label-lecture } [The Central Limit Theorem, Choosing Sample Sizes](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=lectures/lec22/lec22.ipynb) [✏️](resources/lectures/lec22/lec22.html) [Watch 🎥](https://podcast.ucsd.edu/watch/wi23/dsc10_b00/23/kaltura)":
             "[CIT 14.6](https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html)"
                 
           
