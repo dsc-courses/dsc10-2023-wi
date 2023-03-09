@@ -17,7 +17,7 @@
           "**LEC 23**{: .label .label-lecture } [Correlation](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=lectures/lec23/lec23.ipynb) [✏️](resources/lectures/lec23/lec23.html)":
             "[CIT 15, 15.1-15.2](https://inferentialthinking.com/chapters/15/Prediction.html)"
           
-          "**DIS 9**{: .label .label-disc } [The Normal Distribution and the CLT](https://practice.dsc10.com/disc09/index.html)":
+          "**DIS 9**{: .label .label-disc } [The Normal Distribution and the CLT](https://practice.dsc10.com/disc09/index.html) - [Dasha 🎥](https://podcast.ucsd.edu/watch/wi23/dsc10_d00/57), [Dylan 🎥](https://podcast.ucsd.edu/watch/wi23/dsc10_a00/53)":
                 
       - date: 2023-3-9
         events:
