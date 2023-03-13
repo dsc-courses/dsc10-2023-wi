@@ -4,7 +4,7 @@
     days:
       - date: 2023-3-13
         events:
-          "**LEC 25**{: .label .label-lecture } Residuals and Inference":
+          "**LEC 25**{: .label .label-lecture } [Residuals and Inference](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=lectures/lec25/lec25.ipynb) [✏️](resources/lectures/lec25/lec25.html)":
             "[CIT 15.5-16.3](https://inferentialthinking.com/chapters/15/5/Visual_Diagnostics.html)"
                 
           
