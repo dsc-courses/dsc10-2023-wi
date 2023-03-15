@@ -21,6 +21,8 @@
           "**LEC 27**{: .label .label-lecture } Review, Conclusion":
       - date: 2023-3-18
         events:
-          "**SUR**{: .label .label-survey } End of Quarter Survey + CAPEs":
-          "**Exam**{: .label .label-exam } **Final Exam (3-6PM)**":
+          "**SUR**{: .label .label-survey } [End of Quarter Survey](https://forms.gle/pmorTbJ18ufDBeiq8) + [CAPEs](https://cape.ucsd.edu/)":
+          "**Exam**{: .label .label-exam } **Final Exam (3-6PM in [Galbraith Hall 242](https://map.concept3d.com/?id=1005#!m/553423))**":
 ---
+
+
