@@ -15,7 +15,7 @@
       - date: 2023-3-15
         events:
           "**LEC 26**{: .label .label-lecture } Review":
-          "**DIS 10**{: .label .label-disc } Regression":
+          "**DIS 10**{: .label .label-disc } [Regression](https://practice.dsc10.com/disc10/index.html)":
       - date: 2023-3-17
         events:
           "**LEC 27**{: .label .label-lecture } Review, Conclusion":
