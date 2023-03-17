@@ -12,6 +12,8 @@ nav_order: 1
 
 {{ site.staffersnobio }}
 
+{: .important } Make sure to fill out the [End of Quarter Survey](https://forms.gle/pmorTbJ18ufDBeiq8) + [CAPEs](https://cape.ucsd.edu/) before Saturday at 8am. If we reach an 80% response rate on both surveys, everyone will get an extra 0.5% extra credit on their overall grade!
+
 <!-- Lecture and discussion recordings can be found at [podcast.ucsd.edu](https://podcast.ucsd.edu). -->
 
 [Jump to the current week](#week-10){: .btn }
