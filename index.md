@@ -12,11 +12,12 @@ nav_order: 1
 
 {{ site.staffersnobio }}
 
-{{: .warning }} Make sure to fill out the [End of Quarter Survey](https://forms.gle/pmorTbJ18ufDBeiq8) + [CAPEs](https://cape.ucsd.edu/) before Saturday at 8am. If we reach an 80% response rate on both surveys, everyone will get an extra 0.5% extra credit on their overall grade!
+{: .note }
+**This is the website of a previous offering of DSC 10. To see the most recent offering, go to [dsc10.com](https://dsc10.com), and to see other DSC course websites, go to [dsc-courses.github.io](https://dsc-courses.github.io).**
 
 <!-- Lecture and discussion recordings can be found at [podcast.ucsd.edu](https://podcast.ucsd.edu). -->
 
-[Jump to the current week](#week-10){: .btn }
+<!-- [Jump to the current week](#week-10){: .btn } -->
 
 {% for module in site.modules %}
 {{ module }}
