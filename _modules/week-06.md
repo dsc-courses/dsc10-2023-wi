@@ -11,7 +11,7 @@
       - date: 2023-2-14
         events:
           
-          "**PROJ**{: .label .label-proj } [Midterm Project](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=projects/midterm_project/midterm_project.ipynb)":
+          "**PROJ**{: .label .label-proj } Midterm Project":
           
       - date: 2023-2-15
         events:
@@ -28,5 +28,5 @@
       - date: 2023-2-18
         events:
           
-          "**Lab 4**{: .label .label-lab } [Simulation, Sampling, and Hypothesis Testing](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=labs/lab04/lab04.ipynb)":
+          "**Lab 4**{: .label .label-lab } Simulation, Sampling, and Hypothesis Testing":
 ---

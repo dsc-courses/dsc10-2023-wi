@@ -10,7 +10,7 @@
       - date: 2023-1-31
         events:
           
-          "**HW 2**{: .label .label-hw } [DataFrames and Data Visualization](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=homeworks/hw02/hw02.ipynb)":
+          "**HW 2**{: .label .label-hw } DataFrames and Data Visualization":
       - date: 2023-2-1
         events:
           "**LEC 10**{: .label .label-lecture } [Conditional Statements and Iteration](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=lectures/lec10/lec10.ipynb) [✏️](resources/lectures/lec10/lec10.html) [Watch 🎥](https://podcast.ucsd.edu/watch/wi23/dsc10_a00/10/kaltura)":
@@ -26,5 +26,5 @@
       - date: 2023-2-4
         events:
           
-          "**Lab 3**{: .label .label-lab } [DataFrames, Control Flow, and Probability](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=labs/lab03/lab03.ipynb)":
+          "**Lab 3**{: .label .label-lab } DataFrames, Control Flow, and Probability":
 ---

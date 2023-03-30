@@ -11,7 +11,7 @@
       - date: 2023-3-7
         events:
           
-          "**Lab 6**{: .label .label-lab } [Center, Spread, and the Normal Distribution](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=labs/lab06/lab06.ipynb)":
+          "**Lab 6**{: .label .label-lab } Center, Spread, and the Normal Distribution":
       - date: 2023-3-8
         events:
           "**LEC 23**{: .label .label-lecture } [Correlation](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=lectures/lec23/lec23.ipynb) [✏️](resources/lectures/lec23/lec23.html) [Watch 🎥](https://podcast.ucsd.edu/watch/wi23/dsc10_a00/24/kaltura)":
@@ -22,12 +22,12 @@
       - date: 2023-3-9
         events:
           
-          "**HW 6**{: .label .label-hw } [Confidence Intervals, the Normal Distribution, and the Central Limit Theorem](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=homeworks/hw06/hw06.ipynb)":
+          "**HW 6**{: .label .label-hw } Confidence Intervals, the Normal Distribution, and the Central Limit Theorem":
       - date: 2023-3-10
         events:
           "**LEC 24**{: .label .label-lecture } [Regression and Least Squares](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=lectures/lec24/lec24.ipynb) [✏️](resources/lectures/lec24/lec24.html) [Watch 🎥](https://podcast.ucsd.edu/watch/wi23/dsc10_a00/25/kaltura)":
             "[CIT 15.2-15.4](https://inferentialthinking.com/chapters/15/2/Regression_Line.html)"
       - date: 2023-3-11
         events:
-          "**Lab 7**{: .label .label-lab } [Regression](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=labs/lab07/lab07.ipynb)":
+          "**Lab 7**{: .label .label-lab } Regression":
 ---

@@ -10,7 +10,7 @@
       - date: 2023-1-24
         events:
           
-          "**HW 1**{: .label .label-hw } [Basic Python, Arrays, and DataFrames](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=homeworks/hw01/hw01.ipynb)":
+          "**HW 1**{: .label .label-hw } Basic Python, Arrays, and DataFrames":
 
       - date: 2023-1-25
         events:
@@ -26,5 +26,5 @@
       - date: 2023-1-28
         events:
           
-          "**Lab 2**{: .label .label-lab } [Data Visualization and Python Functions](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=labs/lab02/lab02.ipynb)":
+          "**Lab 2**{: .label .label-lab } Data Visualization and Python Functions":
 ---

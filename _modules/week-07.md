@@ -5,7 +5,7 @@
       - date: 2023-2-21
         events:
           
-          "**HW 4**{: .label .label-hw } [Simulation, Sampling, and Hypothesis Testing](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=homeworks/hw04/hw04.ipynb)":
+          "**HW 4**{: .label .label-hw } Simulation, Sampling, and Hypothesis Testing":
       - date: 2023-2-22
         events:
           "**LEC 17**{: .label .label-lecture } [Permutation Testing, Bootstrapping](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=lectures/lec17/lec17.ipynb) [✏️](resources/lectures/lec17/lec17.html) [Watch 🎥](https://podcast.ucsd.edu/watch/wi23/dsc10_b00/18/kaltura)":
@@ -21,5 +21,5 @@
       - date: 2023-2-25
         events:
           
-          "**Lab 5**{: .label .label-lab } [Resampling and Bootstrapping](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=labs/lab05/lab05.ipynb)":
+          "**Lab 5**{: .label .label-lab } Resampling and Bootstrapping":
 ---
